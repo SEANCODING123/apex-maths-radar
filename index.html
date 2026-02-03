@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apex Maths Competency Radar</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+</head>
+<body>
+    <div class="dashboard">
+        <header class="header">
+            <div class="logo">
+                <span class="logo-icon">📊</span>
+                <h1>Apex Maths Competency Radar</h1>
+            </div>
+            <p class="subtitle">Student Performance Visualization • Grades 4-12</p>
+        </header>
+
+        <main class="main-content">
+            <aside class="controls-panel">
+                <div class="control-group">
+                    <label for="studentSelect">Select Student</label>
+                    <select id="studentSelect">
+                        <option value="">-- Choose a student --</option>
+                    </select>
+                </div>
+
+                <div class="control-group">
+                    <label for="gradeFilter">Compare with Grade Average</label>
+                    <select id="gradeFilter">
+                        <option value="">No comparison</option>
+                        <option value="4">Grade 4</option>
+                        <option value="5">Grade 5</option>
+                        <option value="6">Grade 6</option>
+                        <option value="7">Grade 7</option>
+                        <option value="8">Grade 8</option>
+                        <option value="9">Grade 9</option>
+                        <option value="10">Grade 10</option>
+                        <option value="11">Grade 11</option>
+                        <option value="12">Grade 12</option>
+                    </select>
+                </div>
+
+                <div class="student-info" id="studentInfo">
+                    <h3>Student Details</h3>
+                    <p id="studentName">-</p>
+                    <p id="studentGradeLevel">-</p>
+                    <p id="studentProgress">-</p>
+                    <p id="studentAccuracy">-</p>
+                </div>
+
+                <button class="btn-export" id="exportPdf">
+                    <span>📄</span> Export PDF Report
+                </button>
+            </aside>
+
+            <section class="radar-container">
+                <div class="chart-wrapper" id="chartWrapper">
+                    <canvas id="radarChart"></canvas>
+                </div>
+                <div class="legend" id="gradeLegend"></div>
+            </section>
+        </main>
+
+        <footer class="footer">
+            <p>Apex High School Mathematics Assessment Dashboard</p>
+        </footer>
+    </div>
+
+    <script src="src/app.js"></script>
+</body>
+</html>
