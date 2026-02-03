@@ -311,6 +311,9 @@ function renderRadar(studentId, compareGrade = null) {
         options: {
             responsive: true,
             maintainAspectRatio: true,
+            layout: {
+                padding: 20
+            },
             scales: {
                 r: {
                     beginAtZero: true,
@@ -318,7 +321,8 @@ function renderRadar(studentId, compareGrade = null) {
                     ticks: {
                         stepSize: 20,
                         color: '#a0a0b0',
-                        backdropColor: 'transparent'
+                        backdropColor: 'transparent',
+                        showLabelBackdrop: false
                     },
                     grid: {
                         color: 'rgba(255, 255, 255, 0.1)'
@@ -329,7 +333,7 @@ function renderRadar(studentId, compareGrade = null) {
                     pointLabels: {
                         color: '#ffffff',
                         font: {
-                            size: 10
+                            size: 9 // Reduced to fit more labels
                         }
                     }
                 }
@@ -340,7 +344,10 @@ function renderRadar(studentId, compareGrade = null) {
                     position: 'top',
                     labels: {
                         color: '#ffffff',
-                        padding: 20
+                        padding: 20,
+                        font: {
+                            size: 11
+                        }
                     }
                 },
                 tooltip: {
