@@ -55,7 +55,7 @@ let radarChart = null;
  */
 async function loadData() {
     try {
-        const response = await fetch('data/sample_quiz_results.csv');
+        const response = await fetch('data/sample_quiz_results.csv?v=' + Date.now());
         const csvText = await response.text();
 
         const lines = csvText.trim().split('\n');
