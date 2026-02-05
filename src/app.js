@@ -1,6 +1,7 @@
 /**
  * Apex Maths Competency Radar Dashboard
  * Visualizes student performance using an adaptive spiral radar chart
+ * Version: 1.1 - Added Grade-12 support
  */
 
 // Grade colors matching CSS variables

@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -Command:*)",
+      "Bash(cmd /c \"echo STU030,Fatima Van der Merwe,12,G12_CALC-Intro_T1_01,Grade-12,CALC-Intro,Type-1,1,2026-02-01T10:32:20 >> data\\\\sample_quiz_results.csv\")",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git pull:*)",
+      "Bash(gh api:*)",
+      "Bash(gh run list:*)"
+    ]
+  }
+}
