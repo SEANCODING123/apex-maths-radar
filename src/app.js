@@ -70,6 +70,13 @@ async function loadData() {
             return row;
         });
 
+        // Debug: Check for Grade-12 data
+        const grade12Data = allData.filter(row => row.grade_tag === 'Grade-12');
+        console.log('Grade-12 records loaded:', grade12Data.length);
+        if (grade12Data.length > 0) {
+            console.log('Sample Grade-12 record:', grade12Data[0]);
+        }
+
         processData();
         populateStudentDropdown();
         calculateGradeAverages();
@@ -154,6 +161,9 @@ function calculateStudentStats(student) {
 
     student.responses.forEach(resp => {
         const grade = parseInt(resp.gradeTag.split('-')[1]);
+        if (grade === 12) {
+            console.log('Found Grade-12 response:', resp);
+        }
         const key = `G${grade}-${resp.competencyTag}`;
 
         if (!byCompetency[key]) {
