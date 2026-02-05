@@ -37,7 +37,11 @@ const COMPETENCY_NAMES = {
     'GEOM-Trig': 'Trigonometry',
     'FUNC-Advanced': 'Advanced Functions',
     'CALC-Foundations': 'Calculus Basics',
-    'DATA-Stats': 'Statistics & Probability'
+    'DATA-Stats': 'Statistics & Probability',
+    'CALC-Intro': 'Introductory Calculus',
+    'ALG-Complex': 'Complex Algebra',
+    'TRIG-Advanced': 'Advanced Trigonometry',
+    'PROB-Stats': 'Probability & Statistics'
 };
 
 // Store for loaded data
