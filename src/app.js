@@ -19,6 +19,16 @@ const GRADE_COLORS = {
 
 // Human-readable competency names for teachers
 const COMPETENCY_NAMES = {
+    // Short codes used in real data
+    'ALG': 'Algebra',
+    'CALC': 'Calculus',
+    'DATA': 'Data & Statistics',
+    'FIN': 'Financial Maths',
+    'FUNC': 'Functions',
+    'GEO': 'Geometry',
+    'PAT': 'Patterns',
+    'TRIG': 'Trigonometry',
+    // Legacy sample-data codes
     'NUM-MultiDigit': 'Place Value & Numbers',
     'COMP-Advanced': 'Computation Skills',
     'MEAS-Standard': 'Measurement Basics',
@@ -49,38 +59,51 @@ const COMPETENCY_NAMES = {
 let allData = [];
 let studentMap = new Map();
 let gradeAverages = {};
+let questionGrades = []; // grades actually present in the data
 let radarChart = null;
 
 /**
  * Load and parse CSV data
  */
+function deriveTagsFromQuestionId(questionId) {
+    const match = questionId && questionId.match(/^G(\d+)_([A-Z]+)_(T\d+)/);
+    if (!match) return { gradeTag: null, competencyTag: null, typeTag: null };
+    return {
+        gradeTag: `Grade-${match[1]}`,
+        competencyTag: match[2],
+        typeTag: `Type-${match[3].slice(1)}`
+    };
+}
+
 async function loadData() {
     try {
-        const response = await fetch('data/sample_quiz_results.csv?v=' + Date.now());
+        const response = await fetch('data/math-radar-quiz-results.csv?v=' + Date.now());
         const csvText = await response.text();
 
         const lines = csvText.trim().split('\n');
-        const headers = lines[0].split(',');
+        // Normalise headers: trim whitespace and replace spaces with underscores
+        const headers = lines[0].split(',').map(h => h.trim().replace(/\s+/g, '_'));
 
         allData = lines.slice(1).map(line => {
             const values = line.split(',');
             const row = {};
             headers.forEach((h, i) => {
-                row[h.trim()] = values[i]?.trim();
+                row[h] = values[i]?.trim();
             });
+            // Derive grade/competency/type tags from question_id if not present
+            if (!row.grade_tag || !row.competency_tag) {
+                const derived = deriveTagsFromQuestionId(row.question_id);
+                row.grade_tag = row.grade_tag || derived.gradeTag;
+                row.competency_tag = row.competency_tag || derived.competencyTag;
+                row.type_tag = row.type_tag || derived.typeTag;
+            }
             return row;
         });
-
-        // Debug: Check for Grade-12 data
-        const grade12Data = allData.filter(row => row.grade_tag === 'Grade-12');
-        console.log('Grade-12 records loaded:', grade12Data.length);
-        if (grade12Data.length > 0) {
-            console.log('Sample Grade-12 record:', grade12Data[0]);
-        }
 
         processData();
         populateStudentDropdown();
         calculateGradeAverages();
+        populateGradeFilter();
         createGradeLegend();
 
     } catch (error) {
@@ -100,7 +123,7 @@ function processData() {
             studentMap.set(sid, {
                 id: sid,
                 name: row.student_name,
-                gradeLevel: parseInt(row.student_grade_level),
+                gradeLevel: parseInt(row.student_grade_level) || null,
                 responses: []
             });
         }
@@ -113,6 +136,26 @@ function processData() {
             timestamp: row.timestamp
         });
     });
+
+    // Infer grade level from highest-grade question attempted when not set
+    studentMap.forEach(student => {
+        if (!student.gradeLevel) {
+            const maxGrade = student.responses.reduce((max, r) => {
+                const g = r.gradeTag ? parseInt(r.gradeTag.split('-')[1]) : 0;
+                return g > max ? g : max;
+            }, 0);
+            student.gradeLevel = maxGrade || null;
+        }
+    });
+
+    // Derive sorted list of question grades actually present in the data
+    const gradeSet = new Set();
+    studentMap.forEach(student => {
+        student.responses.forEach(r => {
+            if (r.gradeTag) gradeSet.add(parseInt(r.gradeTag.split('-')[1]));
+        });
+    });
+    questionGrades = Array.from(gradeSet).sort((a, b) => a - b);
 }
 
 /**
@@ -121,7 +164,7 @@ function processData() {
 function calculateGradeAverages() {
     gradeAverages = {};
 
-    for (let grade = 4; grade <= 12; grade++) {
+    for (const grade of questionGrades) {
         const studentsInGrade = Array.from(studentMap.values())
             .filter(s => s.gradeLevel === grade);
 
@@ -161,10 +204,8 @@ function calculateStudentStats(student) {
     let maxGrade = 4;
 
     student.responses.forEach(resp => {
+        if (!resp.gradeTag || !resp.competencyTag) return;
         const grade = parseInt(resp.gradeTag.split('-')[1]);
-        if (grade === 12) {
-            console.log('Found Grade-12 response:', resp);
-        }
         const key = `G${grade}-${resp.competencyTag}`;
 
         if (!byCompetency[key]) {
@@ -214,13 +255,29 @@ function populateStudentDropdown() {
 }
 
 /**
+ * Populate grade comparison dropdown from actual data
+ */
+function populateGradeFilter() {
+    const select = document.getElementById('gradeFilter');
+    // Remove any previously added options (keep "No comparison")
+    while (select.options.length > 1) select.remove(1);
+
+    questionGrades.forEach(grade => {
+        const opt = document.createElement('option');
+        opt.value = grade;
+        opt.textContent = `Grade ${grade}`;
+        select.appendChild(opt);
+    });
+}
+
+/**
  * Create grade color legend
  */
 function createGradeLegend() {
     const legend = document.getElementById('gradeLegend');
     legend.innerHTML = '';
 
-    for (let grade = 4; grade <= 12; grade++) {
+    questionGrades.forEach(grade => {
         const item = document.createElement('div');
         item.className = 'legend-item';
         item.innerHTML = `
@@ -228,7 +285,7 @@ function createGradeLegend() {
             <span>Grade ${grade}</span>
         `;
         legend.appendChild(item);
-    }
+    });
 }
 
 /**

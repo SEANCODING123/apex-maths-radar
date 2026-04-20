@@ -1,0 +1,2041 @@
+student id,student name,student grade level,question id,is correct
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G10_ALG_T2_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G10_FUNC_T3_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G10_FUNC_T4_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G10_TRIG_T4_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G11_ALG_T4_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G11_DATA_T3_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G11_GEO_T2_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G11_GEO_T4_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G11_TRIG_T3_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_CALC_T2_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_DATA_T2_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_FIN_T3_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_FIN_T4_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_TRIG_T2_02,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_TRIG_T3_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_TRIG_T3_02,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_TRIG_T4_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G8_ALG_T1_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G8_FUNC_T1_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G8_FUNC_T2_01,1
+phuthuma.bene,Phuthuma BENE,11,G10_ALG_T2_01,0
+phuthuma.bene,Phuthuma BENE,11,G10_FUNC_T3_01,0
+phuthuma.bene,Phuthuma BENE,11,G10_FUNC_T4_01,0
+phuthuma.bene,Phuthuma BENE,11,G10_TRIG_T4_01,1
+phuthuma.bene,Phuthuma BENE,11,G11_ALG_T4_01,1
+phuthuma.bene,Phuthuma BENE,11,G11_DATA_T3_01,0
+phuthuma.bene,Phuthuma BENE,11,G11_GEO_T2_01,0
+phuthuma.bene,Phuthuma BENE,11,G11_GEO_T4_01,1
+phuthuma.bene,Phuthuma BENE,11,G11_TRIG_T3_01,0
+phuthuma.bene,Phuthuma BENE,11,G12_CALC_T2_01,1
+phuthuma.bene,Phuthuma BENE,11,G12_DATA_T2_01,0
+phuthuma.bene,Phuthuma BENE,11,G12_FIN_T3_01,0
+phuthuma.bene,Phuthuma BENE,11,G12_FIN_T4_01,1
+phuthuma.bene,Phuthuma BENE,11,G12_TRIG_T2_02,0
+phuthuma.bene,Phuthuma BENE,11,G12_TRIG_T3_01,0
+phuthuma.bene,Phuthuma BENE,11,G12_TRIG_T3_02,0
+phuthuma.bene,Phuthuma BENE,11,G12_TRIG_T4_01,0
+phuthuma.bene,Phuthuma BENE,11,G8_ALG_T1_01,1
+phuthuma.bene,Phuthuma BENE,11,G8_FUNC_T1_01,0
+phuthuma.bene,Phuthuma BENE,11,G8_FUNC_T2_01,0
+roydin.beukes,Roydin BEUKES,11,G10_ALG_T2_01,1
+roydin.beukes,Roydin BEUKES,11,G10_FUNC_T3_01,1
+roydin.beukes,Roydin BEUKES,11,G10_FUNC_T4_01,0
+roydin.beukes,Roydin BEUKES,11,G10_TRIG_T4_01,1
+roydin.beukes,Roydin BEUKES,11,G11_ALG_T4_01,1
+roydin.beukes,Roydin BEUKES,11,G11_DATA_T3_01,0
+roydin.beukes,Roydin BEUKES,11,G11_GEO_T2_01,0
+roydin.beukes,Roydin BEUKES,11,G11_GEO_T4_01,0
+roydin.beukes,Roydin BEUKES,11,G11_TRIG_T3_01,1
+roydin.beukes,Roydin BEUKES,11,G12_CALC_T2_01,1
+roydin.beukes,Roydin BEUKES,11,G12_DATA_T2_01,1
+roydin.beukes,Roydin BEUKES,11,G12_FIN_T3_01,0
+roydin.beukes,Roydin BEUKES,11,G12_FIN_T4_01,0
+roydin.beukes,Roydin BEUKES,11,G12_TRIG_T2_02,1
+roydin.beukes,Roydin BEUKES,11,G12_TRIG_T3_01,0
+roydin.beukes,Roydin BEUKES,11,G12_TRIG_T3_02,0
+roydin.beukes,Roydin BEUKES,11,G12_TRIG_T4_01,1
+roydin.beukes,Roydin BEUKES,11,G8_ALG_T1_01,1
+roydin.beukes,Roydin BEUKES,11,G8_FUNC_T1_01,0
+roydin.beukes,Roydin BEUKES,11,G8_FUNC_T2_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G10_ALG_T2_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G10_FUNC_T3_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G10_FUNC_T4_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G10_TRIG_T4_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G11_ALG_T4_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G11_DATA_T3_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G11_GEO_T2_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G11_GEO_T4_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G11_TRIG_T3_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G12_CALC_T2_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G12_DATA_T2_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G12_FIN_T3_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G12_FIN_T4_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G12_TRIG_T2_02,1
+sharlique.blaauw,Sharlique BLAAUW,11,G12_TRIG_T3_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G12_TRIG_T3_02,1
+sharlique.blaauw,Sharlique BLAAUW,11,G12_TRIG_T4_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G8_ALG_T1_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G8_FUNC_T1_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G8_FUNC_T2_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G10_ALG_T2_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G10_FUNC_T3_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G10_FUNC_T4_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G10_TRIG_T4_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G11_ALG_T4_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G11_DATA_T3_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G11_GEO_T2_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G11_GEO_T4_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G11_TRIG_T3_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_CALC_T2_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_DATA_T2_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_FIN_T3_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_FIN_T4_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_TRIG_T2_02,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_TRIG_T3_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_TRIG_T3_02,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_TRIG_T4_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G8_ALG_T1_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G8_FUNC_T1_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G8_FUNC_T2_01,0
+enroy.chitare,Enroy CHITARE,11,G10_ALG_T2_01,1
+enroy.chitare,Enroy CHITARE,11,G10_FUNC_T3_01,1
+enroy.chitare,Enroy CHITARE,11,G10_FUNC_T4_01,1
+enroy.chitare,Enroy CHITARE,11,G10_TRIG_T4_01,1
+enroy.chitare,Enroy CHITARE,11,G11_ALG_T4_01,0
+enroy.chitare,Enroy CHITARE,11,G11_DATA_T3_01,0
+enroy.chitare,Enroy CHITARE,11,G11_GEO_T2_01,0
+enroy.chitare,Enroy CHITARE,11,G11_GEO_T4_01,0
+enroy.chitare,Enroy CHITARE,11,G11_TRIG_T3_01,0
+enroy.chitare,Enroy CHITARE,11,G12_CALC_T2_01,0
+enroy.chitare,Enroy CHITARE,11,G12_DATA_T2_01,0
+enroy.chitare,Enroy CHITARE,11,G12_FIN_T3_01,0
+enroy.chitare,Enroy CHITARE,11,G12_FIN_T4_01,1
+enroy.chitare,Enroy CHITARE,11,G12_TRIG_T2_02,1
+enroy.chitare,Enroy CHITARE,11,G12_TRIG_T3_01,0
+enroy.chitare,Enroy CHITARE,11,G12_TRIG_T3_02,0
+enroy.chitare,Enroy CHITARE,11,G12_TRIG_T4_01,0
+enroy.chitare,Enroy CHITARE,11,G8_ALG_T1_01,1
+enroy.chitare,Enroy CHITARE,11,G8_FUNC_T1_01,1
+enroy.chitare,Enroy CHITARE,11,G8_FUNC_T2_01,0
+sukre.delily,Sukre DE LILY,11,G10_ALG_T2_01,1
+sukre.delily,Sukre DE LILY,11,G10_FUNC_T3_01,1
+sukre.delily,Sukre DE LILY,11,G10_FUNC_T4_01,0
+sukre.delily,Sukre DE LILY,11,G10_TRIG_T4_01,0
+sukre.delily,Sukre DE LILY,11,G11_ALG_T4_01,0
+sukre.delily,Sukre DE LILY,11,G11_DATA_T3_01,0
+sukre.delily,Sukre DE LILY,11,G11_GEO_T2_01,0
+sukre.delily,Sukre DE LILY,11,G11_GEO_T4_01,0
+sukre.delily,Sukre DE LILY,11,G11_TRIG_T3_01,0
+sukre.delily,Sukre DE LILY,11,G12_CALC_T2_01,0
+sukre.delily,Sukre DE LILY,11,G12_DATA_T2_01,1
+sukre.delily,Sukre DE LILY,11,G12_FIN_T3_01,1
+sukre.delily,Sukre DE LILY,11,G12_FIN_T4_01,1
+sukre.delily,Sukre DE LILY,11,G12_TRIG_T2_02,1
+sukre.delily,Sukre DE LILY,11,G12_TRIG_T3_01,0
+sukre.delily,Sukre DE LILY,11,G12_TRIG_T3_02,1
+sukre.delily,Sukre DE LILY,11,G12_TRIG_T4_01,0
+sukre.delily,Sukre DE LILY,11,G8_ALG_T1_01,1
+sukre.delily,Sukre DE LILY,11,G8_FUNC_T1_01,1
+sukre.delily,Sukre DE LILY,11,G8_FUNC_T2_01,1
+tammy.gagela,Tammy GAGELA,11,G10_ALG_T2_01,0
+tammy.gagela,Tammy GAGELA,11,G10_FUNC_T3_01,1
+tammy.gagela,Tammy GAGELA,11,G10_FUNC_T4_01,1
+tammy.gagela,Tammy GAGELA,11,G10_TRIG_T4_01,1
+tammy.gagela,Tammy GAGELA,11,G11_ALG_T4_01,0
+tammy.gagela,Tammy GAGELA,11,G11_DATA_T3_01,1
+tammy.gagela,Tammy GAGELA,11,G11_GEO_T2_01,0
+tammy.gagela,Tammy GAGELA,11,G11_GEO_T4_01,0
+tammy.gagela,Tammy GAGELA,11,G11_TRIG_T3_01,1
+tammy.gagela,Tammy GAGELA,11,G12_CALC_T2_01,1
+tammy.gagela,Tammy GAGELA,11,G12_DATA_T2_01,1
+tammy.gagela,Tammy GAGELA,11,G12_FIN_T3_01,1
+tammy.gagela,Tammy GAGELA,11,G12_FIN_T4_01,1
+tammy.gagela,Tammy GAGELA,11,G12_TRIG_T2_02,0
+tammy.gagela,Tammy GAGELA,11,G12_TRIG_T3_01,0
+tammy.gagela,Tammy GAGELA,11,G12_TRIG_T3_02,1
+tammy.gagela,Tammy GAGELA,11,G12_TRIG_T4_01,0
+tammy.gagela,Tammy GAGELA,11,G8_ALG_T1_01,1
+tammy.gagela,Tammy GAGELA,11,G8_FUNC_T1_01,0
+tammy.gagela,Tammy GAGELA,11,G8_FUNC_T2_01,0
+sinothando.gayoyo,Sinothando GAYOYO,11,G10_ALG_T2_01,0
+sinothando.gayoyo,Sinothando GAYOYO,11,G10_FUNC_T3_01,0
+sinothando.gayoyo,Sinothando GAYOYO,11,G10_FUNC_T4_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G10_TRIG_T4_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G11_ALG_T4_01,0
+sinothando.gayoyo,Sinothando GAYOYO,11,G11_DATA_T3_01,0
+sinothando.gayoyo,Sinothando GAYOYO,11,G11_GEO_T2_01,0
+sinothando.gayoyo,Sinothando GAYOYO,11,G11_GEO_T4_01,0
+sinothando.gayoyo,Sinothando GAYOYO,11,G11_TRIG_T3_01,0
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_CALC_T2_01,0
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_DATA_T2_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_FIN_T3_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_FIN_T4_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_TRIG_T2_02,0
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_TRIG_T3_01,0
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_TRIG_T3_02,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_TRIG_T4_01,0
+sinothando.gayoyo,Sinothando GAYOYO,11,G8_ALG_T1_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G8_FUNC_T1_01,0
+sinothando.gayoyo,Sinothando GAYOYO,11,G8_FUNC_T2_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G10_ALG_T2_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G10_FUNC_T3_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G10_FUNC_T4_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G10_TRIG_T4_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G11_ALG_T4_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G11_DATA_T3_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G11_GEO_T2_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G11_GEO_T4_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G11_TRIG_T3_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_CALC_T2_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_DATA_T2_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_FIN_T3_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_FIN_T4_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_TRIG_T2_02,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_TRIG_T3_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_TRIG_T3_02,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_TRIG_T4_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G8_ALG_T1_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G8_FUNC_T1_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G8_FUNC_T2_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G10_ALG_T2_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G10_FUNC_T3_01,1
+jaydee.malgas,Jay Dee MALGAS,11,G10_FUNC_T4_01,1
+jaydee.malgas,Jay Dee MALGAS,11,G10_TRIG_T4_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G11_ALG_T4_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G11_DATA_T3_01,1
+jaydee.malgas,Jay Dee MALGAS,11,G11_GEO_T2_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G11_GEO_T4_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G11_TRIG_T3_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G12_CALC_T2_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G12_DATA_T2_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G12_FIN_T3_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G12_FIN_T4_01,1
+jaydee.malgas,Jay Dee MALGAS,11,G12_TRIG_T2_02,0
+jaydee.malgas,Jay Dee MALGAS,11,G12_TRIG_T3_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G12_TRIG_T3_02,0
+jaydee.malgas,Jay Dee MALGAS,11,G12_TRIG_T4_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G8_ALG_T1_01,1
+jaydee.malgas,Jay Dee MALGAS,11,G8_FUNC_T1_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G8_FUNC_T2_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G10_ALG_T2_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G10_FUNC_T3_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G10_FUNC_T4_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G10_TRIG_T4_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G11_ALG_T4_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G11_DATA_T3_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G11_GEO_T2_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G11_GEO_T4_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G11_TRIG_T3_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_CALC_T2_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_DATA_T2_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_FIN_T3_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_FIN_T4_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_TRIG_T2_02,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_TRIG_T3_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_TRIG_T3_02,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_TRIG_T4_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G8_ALG_T1_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G8_FUNC_T1_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G8_FUNC_T2_01,1
+chinaza.miracle,Chinaza MIRACLE,11,G10_ALG_T2_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G10_FUNC_T3_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G10_FUNC_T4_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G10_TRIG_T4_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G11_ALG_T4_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G11_DATA_T3_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G11_GEO_T2_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G11_GEO_T4_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G11_TRIG_T3_01,1
+chinaza.miracle,Chinaza MIRACLE,11,G12_CALC_T2_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G12_DATA_T2_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G12_FIN_T3_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G12_FIN_T4_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G12_TRIG_T2_02,0
+chinaza.miracle,Chinaza MIRACLE,11,G12_TRIG_T3_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G12_TRIG_T3_02,1
+chinaza.miracle,Chinaza MIRACLE,11,G12_TRIG_T4_01,1
+chinaza.miracle,Chinaza MIRACLE,11,G8_ALG_T1_01,1
+chinaza.miracle,Chinaza MIRACLE,11,G8_FUNC_T1_01,1
+chinaza.miracle,Chinaza MIRACLE,11,G8_FUNC_T2_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G10_ALG_T2_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G10_FUNC_T3_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G10_FUNC_T4_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G10_TRIG_T4_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G11_ALG_T4_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G11_DATA_T3_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G11_GEO_T2_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G11_GEO_T4_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G11_TRIG_T3_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G12_CALC_T2_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G12_DATA_T2_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G12_FIN_T3_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G12_FIN_T4_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G12_TRIG_T2_02,0
+siphesihle.moloi,Siphesihle MOLOI,11,G12_TRIG_T3_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G12_TRIG_T3_02,1
+siphesihle.moloi,Siphesihle MOLOI,11,G12_TRIG_T4_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G8_ALG_T1_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G8_FUNC_T1_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G8_FUNC_T2_01,1
+owami.msomi,Owami MSOMI,11,G10_ALG_T2_01,0
+owami.msomi,Owami MSOMI,11,G10_FUNC_T3_01,1
+owami.msomi,Owami MSOMI,11,G10_FUNC_T4_01,1
+owami.msomi,Owami MSOMI,11,G10_TRIG_T4_01,1
+owami.msomi,Owami MSOMI,11,G11_ALG_T4_01,0
+owami.msomi,Owami MSOMI,11,G11_DATA_T3_01,0
+owami.msomi,Owami MSOMI,11,G11_GEO_T2_01,0
+owami.msomi,Owami MSOMI,11,G11_GEO_T4_01,0
+owami.msomi,Owami MSOMI,11,G11_TRIG_T3_01,0
+owami.msomi,Owami MSOMI,11,G12_CALC_T2_01,0
+owami.msomi,Owami MSOMI,11,G12_DATA_T2_01,0
+owami.msomi,Owami MSOMI,11,G12_FIN_T3_01,0
+owami.msomi,Owami MSOMI,11,G12_FIN_T4_01,1
+owami.msomi,Owami MSOMI,11,G12_TRIG_T2_02,0
+owami.msomi,Owami MSOMI,11,G12_TRIG_T3_01,0
+owami.msomi,Owami MSOMI,11,G12_TRIG_T3_02,1
+owami.msomi,Owami MSOMI,11,G12_TRIG_T4_01,0
+owami.msomi,Owami MSOMI,11,G8_ALG_T1_01,1
+owami.msomi,Owami MSOMI,11,G8_FUNC_T1_01,0
+owami.msomi,Owami MSOMI,11,G8_FUNC_T2_01,0
+endinako.mthetho,Endinako MTHETHO,11,G10_ALG_T2_01,0
+endinako.mthetho,Endinako MTHETHO,11,G10_FUNC_T3_01,1
+endinako.mthetho,Endinako MTHETHO,11,G10_FUNC_T4_01,1
+endinako.mthetho,Endinako MTHETHO,11,G10_TRIG_T4_01,1
+endinako.mthetho,Endinako MTHETHO,11,G11_ALG_T4_01,1
+endinako.mthetho,Endinako MTHETHO,11,G11_DATA_T3_01,0
+endinako.mthetho,Endinako MTHETHO,11,G11_GEO_T2_01,0
+endinako.mthetho,Endinako MTHETHO,11,G11_GEO_T4_01,1
+endinako.mthetho,Endinako MTHETHO,11,G11_TRIG_T3_01,0
+endinako.mthetho,Endinako MTHETHO,11,G12_CALC_T2_01,0
+endinako.mthetho,Endinako MTHETHO,11,G12_DATA_T2_01,1
+endinako.mthetho,Endinako MTHETHO,11,G12_FIN_T3_01,0
+endinako.mthetho,Endinako MTHETHO,11,G12_FIN_T4_01,0
+endinako.mthetho,Endinako MTHETHO,11,G12_TRIG_T2_02,0
+endinako.mthetho,Endinako MTHETHO,11,G12_TRIG_T3_01,0
+endinako.mthetho,Endinako MTHETHO,11,G12_TRIG_T3_02,0
+endinako.mthetho,Endinako MTHETHO,11,G12_TRIG_T4_01,1
+endinako.mthetho,Endinako MTHETHO,11,G8_ALG_T1_01,1
+endinako.mthetho,Endinako MTHETHO,11,G8_FUNC_T1_01,0
+endinako.mthetho,Endinako MTHETHO,11,G8_FUNC_T2_01,1
+luwayne.petersen,Luwayne Petersen,11,G10_ALG_T2_01,0
+luwayne.petersen,Luwayne Petersen,11,G10_FUNC_T3_01,0
+luwayne.petersen,Luwayne Petersen,11,G10_FUNC_T4_01,1
+luwayne.petersen,Luwayne Petersen,11,G10_TRIG_T4_01,1
+luwayne.petersen,Luwayne Petersen,11,G11_ALG_T4_01,1
+luwayne.petersen,Luwayne Petersen,11,G11_DATA_T3_01,0
+luwayne.petersen,Luwayne Petersen,11,G11_GEO_T2_01,0
+luwayne.petersen,Luwayne Petersen,11,G11_GEO_T4_01,0
+luwayne.petersen,Luwayne Petersen,11,G11_TRIG_T3_01,1
+luwayne.petersen,Luwayne Petersen,11,G12_CALC_T2_01,0
+luwayne.petersen,Luwayne Petersen,11,G12_DATA_T2_01,1
+luwayne.petersen,Luwayne Petersen,11,G12_FIN_T3_01,0
+luwayne.petersen,Luwayne Petersen,11,G12_FIN_T4_01,1
+luwayne.petersen,Luwayne Petersen,11,G12_TRIG_T2_02,1
+luwayne.petersen,Luwayne Petersen,11,G12_TRIG_T3_01,0
+luwayne.petersen,Luwayne Petersen,11,G12_TRIG_T3_02,0
+luwayne.petersen,Luwayne Petersen,11,G12_TRIG_T4_01,0
+luwayne.petersen,Luwayne Petersen,11,G8_ALG_T1_01,1
+luwayne.petersen,Luwayne Petersen,11,G8_FUNC_T1_01,1
+luwayne.petersen,Luwayne Petersen,11,G8_FUNC_T2_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G10_ALG_T2_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G10_FUNC_T3_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G10_FUNC_T4_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G10_TRIG_T4_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G11_ALG_T4_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G11_DATA_T3_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G11_GEO_T2_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G11_GEO_T4_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G11_TRIG_T3_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G12_CALC_T2_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G12_DATA_T2_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G12_FIN_T3_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G12_FIN_T4_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G12_TRIG_T2_02,1
+fidiene.ramazani,Fediene RAMAZANI,11,G12_TRIG_T3_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G12_TRIG_T3_02,1
+fidiene.ramazani,Fediene RAMAZANI,11,G12_TRIG_T4_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G8_ALG_T1_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G8_FUNC_T1_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G8_FUNC_T2_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G10_ALG_T2_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G10_FUNC_T3_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G10_FUNC_T4_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G10_TRIG_T4_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G11_ALG_T4_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G11_DATA_T3_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G11_GEO_T2_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G11_GEO_T4_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G11_TRIG_T3_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_CALC_T2_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_DATA_T2_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_FIN_T3_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_FIN_T4_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_TRIG_T2_02,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_TRIG_T3_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_TRIG_T3_02,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_TRIG_T4_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G8_ALG_T1_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G8_FUNC_T1_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G8_FUNC_T2_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G10_ALG_T2_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G10_FUNC_T3_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G10_FUNC_T4_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G10_TRIG_T4_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G11_ALG_T4_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G11_DATA_T3_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G11_GEO_T2_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G11_GEO_T4_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G11_TRIG_T3_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G12_CALC_T2_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G12_DATA_T2_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G12_FIN_T3_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G12_FIN_T4_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G12_TRIG_T2_02,1
+zuko.sikwebu,Zuko SIKWEBU,11,G12_TRIG_T3_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G12_TRIG_T3_02,1
+zuko.sikwebu,Zuko SIKWEBU,11,G12_TRIG_T4_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G8_ALG_T1_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G8_FUNC_T1_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G8_FUNC_T2_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G10_ALG_T2_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G10_FUNC_T3_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G10_FUNC_T4_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G10_TRIG_T4_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G11_ALG_T4_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G11_DATA_T3_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G11_GEO_T2_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G11_GEO_T4_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G11_TRIG_T3_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_CALC_T2_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_DATA_T2_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_FIN_T3_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_FIN_T4_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_TRIG_T2_02,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_TRIG_T3_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_TRIG_T3_02,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_TRIG_T4_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G8_ALG_T1_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G8_FUNC_T1_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G8_FUNC_T2_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G10_ALG_T2_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G10_FUNC_T3_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G10_FUNC_T4_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G10_TRIG_T4_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G11_ALG_T4_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G11_DATA_T3_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G11_GEO_T2_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G11_GEO_T4_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G11_TRIG_T3_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G12_CALC_T2_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G12_DATA_T2_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G12_FIN_T3_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G12_FIN_T4_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G12_TRIG_T2_02,1
+luyakha.xelitole,Luyakha XELITOLE,11,G12_TRIG_T3_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G12_TRIG_T3_02,1
+luyakha.xelitole,Luyakha XELITOLE,11,G12_TRIG_T4_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G8_ALG_T1_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G8_FUNC_T1_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G8_FUNC_T2_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G10_DATA_T2_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G10_DATA_T3_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G10_FIN_T4_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G10_PAT_T3_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G11_ALG_T3_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G11_DATA_T2_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G11_FIN_T4_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G11_FUNC_T2_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G11_FUNC_T4_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G11_GEO_T3_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_CALC_T4_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_DATA_T4_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_FIN_T3_02,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_FUNC_T2_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_FUNC_T2_02,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_FUNC_T3_02,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_GEO_T2_02,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_PAT_T3_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_TRIG_T2_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G8_GEO_T1_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G8_GEO_T2_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G9_GEO_T1_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G9_GEO_T2_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G10_FIN_T2_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G8_ALG_T2_01,1
+phuthuma.bene,Phuthuma BENE,11,G10_DATA_T2_01,1
+phuthuma.bene,Phuthuma BENE,11,G10_DATA_T3_01,0
+phuthuma.bene,Phuthuma BENE,11,G10_FIN_T4_01,1
+phuthuma.bene,Phuthuma BENE,11,G10_PAT_T3_01,0
+phuthuma.bene,Phuthuma BENE,11,G11_ALG_T3_01,1
+phuthuma.bene,Phuthuma BENE,11,G11_DATA_T2_01,0
+phuthuma.bene,Phuthuma BENE,11,G11_FIN_T4_01,0
+phuthuma.bene,Phuthuma BENE,11,G11_FUNC_T2_01,0
+phuthuma.bene,Phuthuma BENE,11,G11_FUNC_T4_01,0
+phuthuma.bene,Phuthuma BENE,11,G11_GEO_T3_01,0
+phuthuma.bene,Phuthuma BENE,11,G12_CALC_T4_01,0
+phuthuma.bene,Phuthuma BENE,11,G12_DATA_T4_01,0
+phuthuma.bene,Phuthuma BENE,11,G12_FIN_T3_02,0
+phuthuma.bene,Phuthuma BENE,11,G12_FUNC_T2_01,0
+phuthuma.bene,Phuthuma BENE,11,G12_FUNC_T2_02,0
+phuthuma.bene,Phuthuma BENE,11,G12_FUNC_T3_02,0
+phuthuma.bene,Phuthuma BENE,11,G12_GEO_T2_02,0
+phuthuma.bene,Phuthuma BENE,11,G12_PAT_T3_01,0
+phuthuma.bene,Phuthuma BENE,11,G12_TRIG_T2_01,0
+phuthuma.bene,Phuthuma BENE,11,G8_GEO_T1_01,0
+phuthuma.bene,Phuthuma BENE,11,G8_GEO_T2_01,0
+phuthuma.bene,Phuthuma BENE,11,G9_GEO_T1_01,0
+phuthuma.bene,Phuthuma BENE,11,G9_GEO_T2_01,0
+phuthuma.bene,Phuthuma BENE,11,G10_FIN_T2_01,0
+phuthuma.bene,Phuthuma BENE,11,G8_ALG_T2_01,1
+roydin.beukes,Roydin BEUKES,11,G10_DATA_T2_01,1
+roydin.beukes,Roydin BEUKES,11,G10_DATA_T3_01,0
+roydin.beukes,Roydin BEUKES,11,G10_FIN_T4_01,1
+roydin.beukes,Roydin BEUKES,11,G10_PAT_T3_01,1
+roydin.beukes,Roydin BEUKES,11,G11_ALG_T3_01,0
+roydin.beukes,Roydin BEUKES,11,G11_DATA_T2_01,0
+roydin.beukes,Roydin BEUKES,11,G11_FIN_T4_01,0
+roydin.beukes,Roydin BEUKES,11,G11_FUNC_T2_01,1
+roydin.beukes,Roydin BEUKES,11,G11_FUNC_T4_01,0
+roydin.beukes,Roydin BEUKES,11,G11_GEO_T3_01,1
+roydin.beukes,Roydin BEUKES,11,G12_CALC_T4_01,0
+roydin.beukes,Roydin BEUKES,11,G12_DATA_T4_01,1
+roydin.beukes,Roydin BEUKES,11,G12_FIN_T3_02,0
+roydin.beukes,Roydin BEUKES,11,G12_FUNC_T2_01,0
+roydin.beukes,Roydin BEUKES,11,G12_FUNC_T2_02,1
+roydin.beukes,Roydin BEUKES,11,G12_FUNC_T3_02,0
+roydin.beukes,Roydin BEUKES,11,G12_GEO_T2_02,1
+roydin.beukes,Roydin BEUKES,11,G12_PAT_T3_01,0
+roydin.beukes,Roydin BEUKES,11,G12_TRIG_T2_01,1
+roydin.beukes,Roydin BEUKES,11,G8_GEO_T1_01,1
+roydin.beukes,Roydin BEUKES,11,G8_GEO_T2_01,0
+roydin.beukes,Roydin BEUKES,11,G9_GEO_T1_01,1
+roydin.beukes,Roydin BEUKES,11,G9_GEO_T2_01,1
+roydin.beukes,Roydin BEUKES,11,G10_FIN_T2_01,0
+roydin.beukes,Roydin BEUKES,11,G8_ALG_T2_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G10_DATA_T2_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G10_DATA_T3_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G10_FIN_T4_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G10_PAT_T3_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G11_ALG_T3_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G11_DATA_T2_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G11_FIN_T4_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G11_FUNC_T2_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G11_FUNC_T4_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G11_GEO_T3_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G12_CALC_T4_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G12_DATA_T4_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G12_FIN_T3_02,0
+sharlique.blaauw,Sharlique BLAAUW,11,G12_FUNC_T2_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G12_FUNC_T2_02,1
+sharlique.blaauw,Sharlique BLAAUW,11,G12_FUNC_T3_02,0
+sharlique.blaauw,Sharlique BLAAUW,11,G12_GEO_T2_02,0
+sharlique.blaauw,Sharlique BLAAUW,11,G12_PAT_T3_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G12_TRIG_T2_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G8_GEO_T1_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G8_GEO_T2_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G9_GEO_T1_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G9_GEO_T2_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G10_FIN_T2_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G8_ALG_T2_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G10_DATA_T2_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G10_DATA_T3_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G10_FIN_T4_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G10_PAT_T3_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G11_ALG_T3_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G11_DATA_T2_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G11_FIN_T4_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G11_FUNC_T2_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G11_FUNC_T4_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G11_GEO_T3_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_CALC_T4_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_DATA_T4_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_FIN_T3_02,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_FUNC_T2_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_FUNC_T2_02,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_FUNC_T3_02,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_GEO_T2_02,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_PAT_T3_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_TRIG_T2_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G8_GEO_T1_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G8_GEO_T2_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G9_GEO_T1_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G9_GEO_T2_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G10_FIN_T2_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G8_ALG_T2_01,1
+enroy.chitare,Enroy CHITARE,11,G10_DATA_T2_01,1
+enroy.chitare,Enroy CHITARE,11,G10_DATA_T3_01,0
+enroy.chitare,Enroy CHITARE,11,G10_FIN_T4_01,1
+enroy.chitare,Enroy CHITARE,11,G10_PAT_T3_01,1
+enroy.chitare,Enroy CHITARE,11,G11_ALG_T3_01,0
+enroy.chitare,Enroy CHITARE,11,G11_DATA_T2_01,0
+enroy.chitare,Enroy CHITARE,11,G11_FIN_T4_01,0
+enroy.chitare,Enroy CHITARE,11,G11_FUNC_T2_01,1
+enroy.chitare,Enroy CHITARE,11,G11_FUNC_T4_01,0
+enroy.chitare,Enroy CHITARE,11,G11_GEO_T3_01,1
+enroy.chitare,Enroy CHITARE,11,G12_CALC_T4_01,1
+enroy.chitare,Enroy CHITARE,11,G12_DATA_T4_01,0
+enroy.chitare,Enroy CHITARE,11,G12_FIN_T3_02,1
+enroy.chitare,Enroy CHITARE,11,G12_FUNC_T2_01,0
+enroy.chitare,Enroy CHITARE,11,G12_FUNC_T2_02,1
+enroy.chitare,Enroy CHITARE,11,G12_FUNC_T3_02,0
+enroy.chitare,Enroy CHITARE,11,G12_GEO_T2_02,1
+enroy.chitare,Enroy CHITARE,11,G12_PAT_T3_01,0
+enroy.chitare,Enroy CHITARE,11,G12_TRIG_T2_01,0
+enroy.chitare,Enroy CHITARE,11,G8_GEO_T1_01,1
+enroy.chitare,Enroy CHITARE,11,G8_GEO_T2_01,0
+enroy.chitare,Enroy CHITARE,11,G9_GEO_T1_01,0
+enroy.chitare,Enroy CHITARE,11,G9_GEO_T2_01,0
+enroy.chitare,Enroy CHITARE,11,G10_FIN_T2_01,1
+enroy.chitare,Enroy CHITARE,11,G8_ALG_T2_01,0
+sukre.delily,Sukre DE LILY,11,G10_DATA_T2_01,1
+sukre.delily,Sukre DE LILY,11,G10_DATA_T3_01,0
+sukre.delily,Sukre DE LILY,11,G10_FIN_T4_01,1
+sukre.delily,Sukre DE LILY,11,G10_PAT_T3_01,1
+sukre.delily,Sukre DE LILY,11,G11_ALG_T3_01,1
+sukre.delily,Sukre DE LILY,11,G11_DATA_T2_01,1
+sukre.delily,Sukre DE LILY,11,G11_FIN_T4_01,0
+sukre.delily,Sukre DE LILY,11,G11_FUNC_T2_01,1
+sukre.delily,Sukre DE LILY,11,G11_FUNC_T4_01,0
+sukre.delily,Sukre DE LILY,11,G11_GEO_T3_01,1
+sukre.delily,Sukre DE LILY,11,G12_CALC_T4_01,0
+sukre.delily,Sukre DE LILY,11,G12_DATA_T4_01,0
+sukre.delily,Sukre DE LILY,11,G12_FIN_T3_02,1
+sukre.delily,Sukre DE LILY,11,G12_FUNC_T2_01,0
+sukre.delily,Sukre DE LILY,11,G12_FUNC_T2_02,0
+sukre.delily,Sukre DE LILY,11,G12_FUNC_T3_02,0
+sukre.delily,Sukre DE LILY,11,G12_GEO_T2_02,1
+sukre.delily,Sukre DE LILY,11,G12_PAT_T3_01,0
+sukre.delily,Sukre DE LILY,11,G12_TRIG_T2_01,1
+sukre.delily,Sukre DE LILY,11,G8_GEO_T1_01,1
+sukre.delily,Sukre DE LILY,11,G8_GEO_T2_01,1
+sukre.delily,Sukre DE LILY,11,G9_GEO_T1_01,1
+sukre.delily,Sukre DE LILY,11,G9_GEO_T2_01,0
+sukre.delily,Sukre DE LILY,11,G10_FIN_T2_01,1
+sukre.delily,Sukre DE LILY,11,G8_ALG_T2_01,1
+tammy.gagela,Tammy GAGELA,11,G10_DATA_T2_01,1
+tammy.gagela,Tammy GAGELA,11,G10_DATA_T3_01,0
+tammy.gagela,Tammy GAGELA,11,G10_FIN_T4_01,1
+tammy.gagela,Tammy GAGELA,11,G10_PAT_T3_01,0
+tammy.gagela,Tammy GAGELA,11,G11_ALG_T3_01,1
+tammy.gagela,Tammy GAGELA,11,G11_DATA_T2_01,0
+tammy.gagela,Tammy GAGELA,11,G11_FIN_T4_01,1
+tammy.gagela,Tammy GAGELA,11,G11_FUNC_T2_01,0
+tammy.gagela,Tammy GAGELA,11,G11_FUNC_T4_01,0
+tammy.gagela,Tammy GAGELA,11,G11_GEO_T3_01,0
+tammy.gagela,Tammy GAGELA,11,G12_CALC_T4_01,0
+tammy.gagela,Tammy GAGELA,11,G12_DATA_T4_01,0
+tammy.gagela,Tammy GAGELA,11,G12_FIN_T3_02,1
+tammy.gagela,Tammy GAGELA,11,G12_FUNC_T2_01,1
+tammy.gagela,Tammy GAGELA,11,G12_FUNC_T2_02,1
+tammy.gagela,Tammy GAGELA,11,G12_FUNC_T3_02,0
+tammy.gagela,Tammy GAGELA,11,G12_GEO_T2_02,0
+tammy.gagela,Tammy GAGELA,11,G12_PAT_T3_01,0
+tammy.gagela,Tammy GAGELA,11,G12_TRIG_T2_01,1
+tammy.gagela,Tammy GAGELA,11,G8_GEO_T1_01,1
+tammy.gagela,Tammy GAGELA,11,G8_GEO_T2_01,1
+tammy.gagela,Tammy GAGELA,11,G9_GEO_T1_01,0
+tammy.gagela,Tammy GAGELA,11,G9_GEO_T2_01,1
+tammy.gagela,Tammy GAGELA,11,G10_FIN_T2_01,1
+tammy.gagela,Tammy GAGELA,11,G8_ALG_T2_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G10_DATA_T2_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G10_DATA_T3_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G10_FIN_T4_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G10_PAT_T3_01,0
+sinothando.gayoyo,Sinothando GAYOYO,11,G11_ALG_T3_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G11_DATA_T2_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G11_FIN_T4_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G11_FUNC_T2_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G11_FUNC_T4_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G11_GEO_T3_01,0
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_CALC_T4_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_DATA_T4_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_FIN_T3_02,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_FUNC_T2_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_FUNC_T2_02,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_FUNC_T3_02,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_GEO_T2_02,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_PAT_T3_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_TRIG_T2_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G8_GEO_T1_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G8_GEO_T2_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G9_GEO_T1_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G9_GEO_T2_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G10_FIN_T2_01,0
+sinothando.gayoyo,Sinothando GAYOYO,11,G8_ALG_T2_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G10_DATA_T2_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G10_DATA_T3_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G10_FIN_T4_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G10_PAT_T3_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G11_ALG_T3_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G11_DATA_T2_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G11_FIN_T4_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G11_FUNC_T2_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G11_FUNC_T4_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G11_GEO_T3_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_CALC_T4_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_DATA_T4_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_FIN_T3_02,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_FUNC_T2_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_FUNC_T2_02,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_FUNC_T3_02,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_GEO_T2_02,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_PAT_T3_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_TRIG_T2_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G8_GEO_T1_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G8_GEO_T2_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G9_GEO_T1_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G9_GEO_T2_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G10_FIN_T2_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G8_ALG_T2_01,1
+jaydee.malgas,Jay Dee MALGAS,11,G10_DATA_T2_01,1
+jaydee.malgas,Jay Dee MALGAS,11,G10_DATA_T3_01,1
+jaydee.malgas,Jay Dee MALGAS,11,G10_FIN_T4_01,1
+jaydee.malgas,Jay Dee MALGAS,11,G10_PAT_T3_01,1
+jaydee.malgas,Jay Dee MALGAS,11,G11_ALG_T3_01,1
+jaydee.malgas,Jay Dee MALGAS,11,G11_DATA_T2_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G11_FIN_T4_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G11_FUNC_T2_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G11_FUNC_T4_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G11_GEO_T3_01,1
+jaydee.malgas,Jay Dee MALGAS,11,G12_CALC_T4_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G12_DATA_T4_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G12_FIN_T3_02,1
+jaydee.malgas,Jay Dee MALGAS,11,G12_FUNC_T2_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G12_FUNC_T2_02,1
+jaydee.malgas,Jay Dee MALGAS,11,G12_FUNC_T3_02,0
+jaydee.malgas,Jay Dee MALGAS,11,G12_GEO_T2_02,0
+jaydee.malgas,Jay Dee MALGAS,11,G12_PAT_T3_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G12_TRIG_T2_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G8_GEO_T1_01,1
+jaydee.malgas,Jay Dee MALGAS,11,G8_GEO_T2_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G9_GEO_T1_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G9_GEO_T2_01,1
+jaydee.malgas,Jay Dee MALGAS,11,G10_FIN_T2_01,1
+jaydee.malgas,Jay Dee MALGAS,11,G8_ALG_T2_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G10_DATA_T2_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G10_DATA_T3_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G10_FIN_T4_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G10_PAT_T3_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G11_ALG_T3_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G11_DATA_T2_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G11_FIN_T4_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G11_FUNC_T2_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G11_FUNC_T4_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G11_GEO_T3_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_CALC_T4_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_DATA_T4_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_FIN_T3_02,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_FUNC_T2_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_FUNC_T2_02,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_FUNC_T3_02,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_GEO_T2_02,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_PAT_T3_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_TRIG_T2_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G8_GEO_T1_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G8_GEO_T2_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G9_GEO_T1_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G9_GEO_T2_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G10_FIN_T2_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G8_ALG_T2_01,1
+chinaza.miracle,Chinaza MIRACLE,11,G10_DATA_T2_01,1
+chinaza.miracle,Chinaza MIRACLE,11,G10_DATA_T3_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G10_FIN_T4_01,1
+chinaza.miracle,Chinaza MIRACLE,11,G10_PAT_T3_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G11_ALG_T3_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G11_DATA_T2_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G11_FIN_T4_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G11_FUNC_T2_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G11_FUNC_T4_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G11_GEO_T3_01,1
+chinaza.miracle,Chinaza MIRACLE,11,G12_CALC_T4_01,1
+chinaza.miracle,Chinaza MIRACLE,11,G12_DATA_T4_01,1
+chinaza.miracle,Chinaza MIRACLE,11,G12_FIN_T3_02,0
+chinaza.miracle,Chinaza MIRACLE,11,G12_FUNC_T2_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G12_FUNC_T2_02,1
+chinaza.miracle,Chinaza MIRACLE,11,G12_FUNC_T3_02,0
+chinaza.miracle,Chinaza MIRACLE,11,G12_GEO_T2_02,0
+chinaza.miracle,Chinaza MIRACLE,11,G12_PAT_T3_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G12_TRIG_T2_01,1
+chinaza.miracle,Chinaza MIRACLE,11,G8_GEO_T1_01,1
+chinaza.miracle,Chinaza MIRACLE,11,G8_GEO_T2_01,1
+chinaza.miracle,Chinaza MIRACLE,11,G9_GEO_T1_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G9_GEO_T2_01,1
+chinaza.miracle,Chinaza MIRACLE,11,G10_FIN_T2_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G8_ALG_T2_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G10_DATA_T2_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G10_DATA_T3_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G10_FIN_T4_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G10_PAT_T3_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G11_ALG_T3_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G11_DATA_T2_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G11_FIN_T4_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G11_FUNC_T2_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G11_FUNC_T4_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G11_GEO_T3_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G12_CALC_T4_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G12_DATA_T4_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G12_FIN_T3_02,0
+siphesihle.moloi,Siphesihle MOLOI,11,G12_FUNC_T2_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G12_FUNC_T2_02,1
+siphesihle.moloi,Siphesihle MOLOI,11,G12_FUNC_T3_02,0
+siphesihle.moloi,Siphesihle MOLOI,11,G12_GEO_T2_02,0
+siphesihle.moloi,Siphesihle MOLOI,11,G12_PAT_T3_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G12_TRIG_T2_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G8_GEO_T1_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G8_GEO_T2_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G9_GEO_T1_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G9_GEO_T2_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G10_FIN_T2_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G8_ALG_T2_01,1
+owami.msomi,Owami MSOMI,11,G10_DATA_T2_01,1
+owami.msomi,Owami MSOMI,11,G10_DATA_T3_01,0
+owami.msomi,Owami MSOMI,11,G10_FIN_T4_01,1
+owami.msomi,Owami MSOMI,11,G10_PAT_T3_01,0
+owami.msomi,Owami MSOMI,11,G11_ALG_T3_01,0
+owami.msomi,Owami MSOMI,11,G11_DATA_T2_01,0
+owami.msomi,Owami MSOMI,11,G11_FIN_T4_01,0
+owami.msomi,Owami MSOMI,11,G11_FUNC_T2_01,1
+owami.msomi,Owami MSOMI,11,G11_FUNC_T4_01,0
+owami.msomi,Owami MSOMI,11,G11_GEO_T3_01,1
+owami.msomi,Owami MSOMI,11,G12_CALC_T4_01,1
+owami.msomi,Owami MSOMI,11,G12_DATA_T4_01,1
+owami.msomi,Owami MSOMI,11,G12_FIN_T3_02,1
+owami.msomi,Owami MSOMI,11,G12_FUNC_T2_01,0
+owami.msomi,Owami MSOMI,11,G12_FUNC_T2_02,0
+owami.msomi,Owami MSOMI,11,G12_FUNC_T3_02,0
+owami.msomi,Owami MSOMI,11,G12_GEO_T2_02,1
+owami.msomi,Owami MSOMI,11,G12_PAT_T3_01,0
+owami.msomi,Owami MSOMI,11,G12_TRIG_T2_01,0
+owami.msomi,Owami MSOMI,11,G8_GEO_T1_01,1
+owami.msomi,Owami MSOMI,11,G8_GEO_T2_01,1
+owami.msomi,Owami MSOMI,11,G9_GEO_T1_01,0
+owami.msomi,Owami MSOMI,11,G9_GEO_T2_01,1
+owami.msomi,Owami MSOMI,11,G10_FIN_T2_01,1
+owami.msomi,Owami MSOMI,11,G8_ALG_T2_01,0
+endinako.mthetho,Endinako MTHETHO,11,G10_DATA_T2_01,1
+endinako.mthetho,Endinako MTHETHO,11,G10_DATA_T3_01,0
+endinako.mthetho,Endinako MTHETHO,11,G10_FIN_T4_01,1
+endinako.mthetho,Endinako MTHETHO,11,G10_PAT_T3_01,0
+endinako.mthetho,Endinako MTHETHO,11,G11_ALG_T3_01,0
+endinako.mthetho,Endinako MTHETHO,11,G11_DATA_T2_01,0
+endinako.mthetho,Endinako MTHETHO,11,G11_FIN_T4_01,0
+endinako.mthetho,Endinako MTHETHO,11,G11_FUNC_T2_01,1
+endinako.mthetho,Endinako MTHETHO,11,G11_FUNC_T4_01,0
+endinako.mthetho,Endinako MTHETHO,11,G11_GEO_T3_01,1
+endinako.mthetho,Endinako MTHETHO,11,G12_CALC_T4_01,0
+endinako.mthetho,Endinako MTHETHO,11,G12_DATA_T4_01,0
+endinako.mthetho,Endinako MTHETHO,11,G12_FIN_T3_02,0
+endinako.mthetho,Endinako MTHETHO,11,G12_FUNC_T2_01,0
+endinako.mthetho,Endinako MTHETHO,11,G12_FUNC_T2_02,1
+endinako.mthetho,Endinako MTHETHO,11,G12_FUNC_T3_02,0
+endinako.mthetho,Endinako MTHETHO,11,G12_GEO_T2_02,0
+endinako.mthetho,Endinako MTHETHO,11,G12_PAT_T3_01,0
+endinako.mthetho,Endinako MTHETHO,11,G12_TRIG_T2_01,0
+endinako.mthetho,Endinako MTHETHO,11,G8_GEO_T1_01,0
+endinako.mthetho,Endinako MTHETHO,11,G8_GEO_T2_01,0
+endinako.mthetho,Endinako MTHETHO,11,G9_GEO_T1_01,0
+endinako.mthetho,Endinako MTHETHO,11,G9_GEO_T2_01,1
+endinako.mthetho,Endinako MTHETHO,11,G10_FIN_T2_01,1
+endinako.mthetho,Endinako MTHETHO,11,G8_ALG_T2_01,1
+luwayne.petersen,Luwayne Petersen,11,G10_DATA_T2_01,1
+luwayne.petersen,Luwayne Petersen,11,G10_DATA_T3_01,1
+luwayne.petersen,Luwayne Petersen,11,G10_FIN_T4_01,1
+luwayne.petersen,Luwayne Petersen,11,G10_PAT_T3_01,0
+luwayne.petersen,Luwayne Petersen,11,G11_ALG_T3_01,0
+luwayne.petersen,Luwayne Petersen,11,G11_DATA_T2_01,0
+luwayne.petersen,Luwayne Petersen,11,G11_FIN_T4_01,0
+luwayne.petersen,Luwayne Petersen,11,G11_FUNC_T2_01,1
+luwayne.petersen,Luwayne Petersen,11,G11_FUNC_T4_01,1
+luwayne.petersen,Luwayne Petersen,11,G11_GEO_T3_01,1
+luwayne.petersen,Luwayne Petersen,11,G12_CALC_T4_01,0
+luwayne.petersen,Luwayne Petersen,11,G12_DATA_T4_01,1
+luwayne.petersen,Luwayne Petersen,11,G12_FIN_T3_02,1
+luwayne.petersen,Luwayne Petersen,11,G12_FUNC_T2_01,1
+luwayne.petersen,Luwayne Petersen,11,G12_FUNC_T2_02,0
+luwayne.petersen,Luwayne Petersen,11,G12_FUNC_T3_02,0
+luwayne.petersen,Luwayne Petersen,11,G12_GEO_T2_02,1
+luwayne.petersen,Luwayne Petersen,11,G12_PAT_T3_01,0
+luwayne.petersen,Luwayne Petersen,11,G12_TRIG_T2_01,0
+luwayne.petersen,Luwayne Petersen,11,G8_GEO_T1_01,1
+luwayne.petersen,Luwayne Petersen,11,G8_GEO_T2_01,1
+luwayne.petersen,Luwayne Petersen,11,G9_GEO_T1_01,1
+luwayne.petersen,Luwayne Petersen,11,G9_GEO_T2_01,1
+luwayne.petersen,Luwayne Petersen,11,G10_FIN_T2_01,1
+luwayne.petersen,Luwayne Petersen,11,G8_ALG_T2_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G10_DATA_T2_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G10_DATA_T3_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G10_FIN_T4_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G10_PAT_T3_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G11_ALG_T3_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G11_DATA_T2_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G11_FIN_T4_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G11_FUNC_T2_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G11_FUNC_T4_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G11_GEO_T3_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G12_CALC_T4_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G12_DATA_T4_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G12_FIN_T3_02,0
+fidiene.ramazani,Fediene RAMAZANI,11,G12_FUNC_T2_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G12_FUNC_T2_02,0
+fidiene.ramazani,Fediene RAMAZANI,11,G12_FUNC_T3_02,1
+fidiene.ramazani,Fediene RAMAZANI,11,G12_GEO_T2_02,0
+fidiene.ramazani,Fediene RAMAZANI,11,G12_PAT_T3_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G12_TRIG_T2_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G8_GEO_T1_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G8_GEO_T2_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G9_GEO_T1_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G9_GEO_T2_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G10_FIN_T2_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G8_ALG_T2_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G10_DATA_T2_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G10_DATA_T3_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G10_FIN_T4_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G10_PAT_T3_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G11_ALG_T3_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G11_DATA_T2_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G11_FIN_T4_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G11_FUNC_T2_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G11_FUNC_T4_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G11_GEO_T3_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_CALC_T4_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_DATA_T4_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_FIN_T3_02,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_FUNC_T2_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_FUNC_T2_02,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_FUNC_T3_02,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_GEO_T2_02,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_PAT_T3_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_TRIG_T2_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G8_GEO_T1_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G8_GEO_T2_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G9_GEO_T1_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G9_GEO_T2_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G10_FIN_T2_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G8_ALG_T2_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G10_DATA_T2_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G10_DATA_T3_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G10_FIN_T4_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G10_PAT_T3_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G11_ALG_T3_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G11_DATA_T2_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G11_FIN_T4_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G11_FUNC_T2_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G11_FUNC_T4_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G11_GEO_T3_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G12_CALC_T4_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G12_DATA_T4_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G12_FIN_T3_02,0
+zuko.sikwebu,Zuko SIKWEBU,11,G12_FUNC_T2_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G12_FUNC_T2_02,1
+zuko.sikwebu,Zuko SIKWEBU,11,G12_FUNC_T3_02,0
+zuko.sikwebu,Zuko SIKWEBU,11,G12_GEO_T2_02,0
+zuko.sikwebu,Zuko SIKWEBU,11,G12_PAT_T3_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G12_TRIG_T2_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G8_GEO_T1_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G8_GEO_T2_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G9_GEO_T1_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G9_GEO_T2_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G10_FIN_T2_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G8_ALG_T2_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G10_DATA_T2_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G10_DATA_T3_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G10_FIN_T4_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G10_PAT_T3_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G11_ALG_T3_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G11_DATA_T2_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G11_FIN_T4_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G11_FUNC_T2_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G11_FUNC_T4_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G11_GEO_T3_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_CALC_T4_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_DATA_T4_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_FIN_T3_02,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_FUNC_T2_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_FUNC_T2_02,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_FUNC_T3_02,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_GEO_T2_02,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_PAT_T3_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_TRIG_T2_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G8_GEO_T1_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G8_GEO_T2_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G9_GEO_T1_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G9_GEO_T2_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G10_FIN_T2_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G8_ALG_T2_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G10_DATA_T2_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G10_DATA_T3_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G10_FIN_T4_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G10_PAT_T3_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G11_ALG_T3_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G11_DATA_T2_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G11_FIN_T4_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G11_FUNC_T2_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G11_FUNC_T4_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G11_GEO_T3_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G12_CALC_T4_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G12_DATA_T4_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G12_FIN_T3_02,0
+luyakha.xelitole,Luyakha XELITOLE,11,G12_FUNC_T2_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G12_FUNC_T2_02,0
+luyakha.xelitole,Luyakha XELITOLE,11,G12_FUNC_T3_02,0
+luyakha.xelitole,Luyakha XELITOLE,11,G12_GEO_T2_02,0
+luyakha.xelitole,Luyakha XELITOLE,11,G12_PAT_T3_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G12_TRIG_T2_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G8_GEO_T1_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G8_GEO_T2_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G9_GEO_T1_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G9_GEO_T2_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G10_FIN_T2_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G8_ALG_T2_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G10_FUNC_T2_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G10_GEO_T2_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G10_GEO_T3_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G10_GEO_T4_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G10_PAT_T4_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G11_ALG_T2_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G11_FIN_T3_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G11_PAT_T2_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G11_PAT_T4_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_ALG_T2_02,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_ALG_T3_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_ALG_T4_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_CALC_T3_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_FUNC_T3_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_GEO_T2_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_GEO_T4_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_PAT_T2_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_PAT_T3_02,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G8_PAT_T1_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G8_PAT_T2_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G9_ALG_T1_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G9_FIN_T1_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G9_PAT_T2_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G11_FUNC_T3_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_FIN_T2_01,0
+phuthuma.bene,Phuthuma BENE,11,G10_FUNC_T2_01,1
+phuthuma.bene,Phuthuma BENE,11,G10_GEO_T2_01,1
+phuthuma.bene,Phuthuma BENE,11,G10_GEO_T3_01,0
+phuthuma.bene,Phuthuma BENE,11,G10_GEO_T4_01,0
+phuthuma.bene,Phuthuma BENE,11,G10_PAT_T4_01,0
+phuthuma.bene,Phuthuma BENE,11,G11_ALG_T2_01,1
+phuthuma.bene,Phuthuma BENE,11,G11_FIN_T3_01,1
+phuthuma.bene,Phuthuma BENE,11,G11_PAT_T2_01,0
+phuthuma.bene,Phuthuma BENE,11,G11_PAT_T4_01,1
+phuthuma.bene,Phuthuma BENE,11,G12_ALG_T2_02,0
+phuthuma.bene,Phuthuma BENE,11,G12_ALG_T3_01,0
+phuthuma.bene,Phuthuma BENE,11,G12_ALG_T4_01,0
+phuthuma.bene,Phuthuma BENE,11,G12_CALC_T3_01,0
+phuthuma.bene,Phuthuma BENE,11,G12_FUNC_T3_01,0
+phuthuma.bene,Phuthuma BENE,11,G12_GEO_T2_01,0
+phuthuma.bene,Phuthuma BENE,11,G12_GEO_T4_01,0
+phuthuma.bene,Phuthuma BENE,11,G12_PAT_T2_01,0
+phuthuma.bene,Phuthuma BENE,11,G12_PAT_T3_02,0
+phuthuma.bene,Phuthuma BENE,11,G8_PAT_T1_01,1
+phuthuma.bene,Phuthuma BENE,11,G8_PAT_T2_01,0
+phuthuma.bene,Phuthuma BENE,11,G9_ALG_T1_01,1
+phuthuma.bene,Phuthuma BENE,11,G9_FIN_T1_01,0
+phuthuma.bene,Phuthuma BENE,11,G9_PAT_T2_01,1
+phuthuma.bene,Phuthuma BENE,11,G11_FUNC_T3_01,0
+phuthuma.bene,Phuthuma BENE,11,G12_FIN_T2_01,0
+roydin.beukes,Roydin BEUKES,11,G10_FUNC_T2_01,1
+roydin.beukes,Roydin BEUKES,11,G10_GEO_T2_01,1
+roydin.beukes,Roydin BEUKES,11,G10_GEO_T3_01,1
+roydin.beukes,Roydin BEUKES,11,G10_GEO_T4_01,1
+roydin.beukes,Roydin BEUKES,11,G10_PAT_T4_01,1
+roydin.beukes,Roydin BEUKES,11,G11_ALG_T2_01,0
+roydin.beukes,Roydin BEUKES,11,G11_FIN_T3_01,0
+roydin.beukes,Roydin BEUKES,11,G11_PAT_T2_01,1
+roydin.beukes,Roydin BEUKES,11,G11_PAT_T4_01,1
+roydin.beukes,Roydin BEUKES,11,G12_ALG_T2_02,0
+roydin.beukes,Roydin BEUKES,11,G12_ALG_T3_01,0
+roydin.beukes,Roydin BEUKES,11,G12_ALG_T4_01,0
+roydin.beukes,Roydin BEUKES,11,G12_CALC_T3_01,1
+roydin.beukes,Roydin BEUKES,11,G12_FUNC_T3_01,0
+roydin.beukes,Roydin BEUKES,11,G12_GEO_T2_01,0
+roydin.beukes,Roydin BEUKES,11,G12_GEO_T4_01,0
+roydin.beukes,Roydin BEUKES,11,G12_PAT_T2_01,0
+roydin.beukes,Roydin BEUKES,11,G12_PAT_T3_02,1
+roydin.beukes,Roydin BEUKES,11,G8_PAT_T1_01,1
+roydin.beukes,Roydin BEUKES,11,G8_PAT_T2_01,0
+roydin.beukes,Roydin BEUKES,11,G9_ALG_T1_01,1
+roydin.beukes,Roydin BEUKES,11,G9_FIN_T1_01,1
+roydin.beukes,Roydin BEUKES,11,G9_PAT_T2_01,1
+roydin.beukes,Roydin BEUKES,11,G11_FUNC_T3_01,0
+roydin.beukes,Roydin BEUKES,11,G12_FIN_T2_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G10_FUNC_T2_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G10_GEO_T2_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G10_GEO_T3_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G10_GEO_T4_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G10_PAT_T4_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G11_ALG_T2_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G11_FIN_T3_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G11_PAT_T2_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G11_PAT_T4_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G12_ALG_T2_02,0
+sharlique.blaauw,Sharlique BLAAUW,11,G12_ALG_T3_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G12_ALG_T4_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G12_CALC_T3_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G12_FUNC_T3_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G12_GEO_T2_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G12_GEO_T4_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G12_PAT_T2_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G12_PAT_T3_02,0
+sharlique.blaauw,Sharlique BLAAUW,11,G8_PAT_T1_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G8_PAT_T2_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G9_ALG_T1_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G9_FIN_T1_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G9_PAT_T2_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G11_FUNC_T3_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G12_FIN_T2_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G10_FUNC_T2_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G10_GEO_T2_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G10_GEO_T3_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G10_GEO_T4_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G10_PAT_T4_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G11_ALG_T2_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G11_FIN_T3_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G11_PAT_T2_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G11_PAT_T4_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_ALG_T2_02,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_ALG_T3_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_ALG_T4_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_CALC_T3_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_FUNC_T3_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_GEO_T2_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_GEO_T4_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_PAT_T2_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_PAT_T3_02,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G8_PAT_T1_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G8_PAT_T2_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G9_ALG_T1_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G9_FIN_T1_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G9_PAT_T2_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G11_FUNC_T3_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_FIN_T2_01,0
+enroy.chitare,Enroy CHITARE,11,G10_FUNC_T2_01,0
+enroy.chitare,Enroy CHITARE,11,G10_GEO_T2_01,0
+enroy.chitare,Enroy CHITARE,11,G10_GEO_T3_01,0
+enroy.chitare,Enroy CHITARE,11,G10_GEO_T4_01,0
+enroy.chitare,Enroy CHITARE,11,G10_PAT_T4_01,0
+enroy.chitare,Enroy CHITARE,11,G11_ALG_T2_01,0
+enroy.chitare,Enroy CHITARE,11,G11_FIN_T3_01,0
+enroy.chitare,Enroy CHITARE,11,G11_PAT_T2_01,0
+enroy.chitare,Enroy CHITARE,11,G11_PAT_T4_01,0
+enroy.chitare,Enroy CHITARE,11,G12_ALG_T2_02,0
+enroy.chitare,Enroy CHITARE,11,G12_ALG_T3_01,0
+enroy.chitare,Enroy CHITARE,11,G12_ALG_T4_01,0
+enroy.chitare,Enroy CHITARE,11,G12_CALC_T3_01,0
+enroy.chitare,Enroy CHITARE,11,G12_FUNC_T3_01,0
+enroy.chitare,Enroy CHITARE,11,G12_GEO_T2_01,0
+enroy.chitare,Enroy CHITARE,11,G12_GEO_T4_01,0
+enroy.chitare,Enroy CHITARE,11,G12_PAT_T2_01,0
+enroy.chitare,Enroy CHITARE,11,G12_PAT_T3_02,0
+enroy.chitare,Enroy CHITARE,11,G8_PAT_T1_01,0
+enroy.chitare,Enroy CHITARE,11,G8_PAT_T2_01,0
+enroy.chitare,Enroy CHITARE,11,G9_ALG_T1_01,0
+enroy.chitare,Enroy CHITARE,11,G9_FIN_T1_01,0
+enroy.chitare,Enroy CHITARE,11,G9_PAT_T2_01,0
+enroy.chitare,Enroy CHITARE,11,G11_FUNC_T3_01,0
+enroy.chitare,Enroy CHITARE,11,G12_FIN_T2_01,0
+sukre.delily,Sukre DE LILY,11,G10_FUNC_T2_01,0
+sukre.delily,Sukre DE LILY,11,G10_GEO_T2_01,1
+sukre.delily,Sukre DE LILY,11,G10_GEO_T3_01,1
+sukre.delily,Sukre DE LILY,11,G10_GEO_T4_01,0
+sukre.delily,Sukre DE LILY,11,G10_PAT_T4_01,1
+sukre.delily,Sukre DE LILY,11,G11_ALG_T2_01,1
+sukre.delily,Sukre DE LILY,11,G11_FIN_T3_01,1
+sukre.delily,Sukre DE LILY,11,G11_PAT_T2_01,1
+sukre.delily,Sukre DE LILY,11,G11_PAT_T4_01,1
+sukre.delily,Sukre DE LILY,11,G12_ALG_T2_02,0
+sukre.delily,Sukre DE LILY,11,G12_ALG_T3_01,1
+sukre.delily,Sukre DE LILY,11,G12_ALG_T4_01,0
+sukre.delily,Sukre DE LILY,11,G12_CALC_T3_01,0
+sukre.delily,Sukre DE LILY,11,G12_FUNC_T3_01,1
+sukre.delily,Sukre DE LILY,11,G12_GEO_T2_01,0
+sukre.delily,Sukre DE LILY,11,G12_GEO_T4_01,0
+sukre.delily,Sukre DE LILY,11,G12_PAT_T2_01,0
+sukre.delily,Sukre DE LILY,11,G12_PAT_T3_02,0
+sukre.delily,Sukre DE LILY,11,G8_PAT_T1_01,1
+sukre.delily,Sukre DE LILY,11,G8_PAT_T2_01,0
+sukre.delily,Sukre DE LILY,11,G9_ALG_T1_01,1
+sukre.delily,Sukre DE LILY,11,G9_FIN_T1_01,1
+sukre.delily,Sukre DE LILY,11,G9_PAT_T2_01,1
+sukre.delily,Sukre DE LILY,11,G11_FUNC_T3_01,0
+sukre.delily,Sukre DE LILY,11,G12_FIN_T2_01,0
+tammy.gagela,Tammy GAGELA,11,G10_FUNC_T2_01,1
+tammy.gagela,Tammy GAGELA,11,G10_GEO_T2_01,0
+tammy.gagela,Tammy GAGELA,11,G10_GEO_T3_01,0
+tammy.gagela,Tammy GAGELA,11,G10_GEO_T4_01,0
+tammy.gagela,Tammy GAGELA,11,G10_PAT_T4_01,1
+tammy.gagela,Tammy GAGELA,11,G11_ALG_T2_01,1
+tammy.gagela,Tammy GAGELA,11,G11_FIN_T3_01,0
+tammy.gagela,Tammy GAGELA,11,G11_PAT_T2_01,1
+tammy.gagela,Tammy GAGELA,11,G11_PAT_T4_01,1
+tammy.gagela,Tammy GAGELA,11,G12_ALG_T2_02,1
+tammy.gagela,Tammy GAGELA,11,G12_ALG_T3_01,0
+tammy.gagela,Tammy GAGELA,11,G12_ALG_T4_01,1
+tammy.gagela,Tammy GAGELA,11,G12_CALC_T3_01,1
+tammy.gagela,Tammy GAGELA,11,G12_FUNC_T3_01,0
+tammy.gagela,Tammy GAGELA,11,G12_GEO_T2_01,0
+tammy.gagela,Tammy GAGELA,11,G12_GEO_T4_01,0
+tammy.gagela,Tammy GAGELA,11,G12_PAT_T2_01,1
+tammy.gagela,Tammy GAGELA,11,G12_PAT_T3_02,0
+tammy.gagela,Tammy GAGELA,11,G8_PAT_T1_01,0
+tammy.gagela,Tammy GAGELA,11,G8_PAT_T2_01,0
+tammy.gagela,Tammy GAGELA,11,G9_ALG_T1_01,0
+tammy.gagela,Tammy GAGELA,11,G9_FIN_T1_01,1
+tammy.gagela,Tammy GAGELA,11,G9_PAT_T2_01,1
+tammy.gagela,Tammy GAGELA,11,G11_FUNC_T3_01,1
+tammy.gagela,Tammy GAGELA,11,G12_FIN_T2_01,0
+sinothando.gayoyo,Sinothando GAYOYO,11,G10_FUNC_T2_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G10_GEO_T2_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G10_GEO_T3_01,0
+sinothando.gayoyo,Sinothando GAYOYO,11,G10_GEO_T4_01,0
+sinothando.gayoyo,Sinothando GAYOYO,11,G10_PAT_T4_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G11_ALG_T2_01,0
+sinothando.gayoyo,Sinothando GAYOYO,11,G11_FIN_T3_01,0
+sinothando.gayoyo,Sinothando GAYOYO,11,G11_PAT_T2_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G11_PAT_T4_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_ALG_T2_02,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_ALG_T3_01,0
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_ALG_T4_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_CALC_T3_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_FUNC_T3_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_GEO_T2_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_GEO_T4_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_PAT_T2_01,0
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_PAT_T3_02,0
+sinothando.gayoyo,Sinothando GAYOYO,11,G8_PAT_T1_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G8_PAT_T2_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G9_ALG_T1_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G9_FIN_T1_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G9_PAT_T2_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G11_FUNC_T3_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_FIN_T2_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G10_FUNC_T2_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G10_GEO_T2_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G10_GEO_T3_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G10_GEO_T4_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G10_PAT_T4_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G11_ALG_T2_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G11_FIN_T3_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G11_PAT_T2_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G11_PAT_T4_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_ALG_T2_02,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_ALG_T3_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_ALG_T4_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_CALC_T3_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_FUNC_T3_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_GEO_T2_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_GEO_T4_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_PAT_T2_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_PAT_T3_02,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G8_PAT_T1_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G8_PAT_T2_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G9_ALG_T1_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G9_FIN_T1_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G9_PAT_T2_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G11_FUNC_T3_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_FIN_T2_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G10_FUNC_T2_01,1
+jaydee.malgas,Jay Dee MALGAS,11,G10_GEO_T2_01,1
+jaydee.malgas,Jay Dee MALGAS,11,G10_GEO_T3_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G10_GEO_T4_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G10_PAT_T4_01,1
+jaydee.malgas,Jay Dee MALGAS,11,G11_ALG_T2_01,1
+jaydee.malgas,Jay Dee MALGAS,11,G11_FIN_T3_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G11_PAT_T2_01,1
+jaydee.malgas,Jay Dee MALGAS,11,G11_PAT_T4_01,1
+jaydee.malgas,Jay Dee MALGAS,11,G12_ALG_T2_02,1
+jaydee.malgas,Jay Dee MALGAS,11,G12_ALG_T3_01,1
+jaydee.malgas,Jay Dee MALGAS,11,G12_ALG_T4_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G12_CALC_T3_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G12_FUNC_T3_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G12_GEO_T2_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G12_GEO_T4_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G12_PAT_T2_01,1
+jaydee.malgas,Jay Dee MALGAS,11,G12_PAT_T3_02,1
+jaydee.malgas,Jay Dee MALGAS,11,G8_PAT_T1_01,1
+jaydee.malgas,Jay Dee MALGAS,11,G8_PAT_T2_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G9_ALG_T1_01,1
+jaydee.malgas,Jay Dee MALGAS,11,G9_FIN_T1_01,1
+jaydee.malgas,Jay Dee MALGAS,11,G9_PAT_T2_01,1
+jaydee.malgas,Jay Dee MALGAS,11,G11_FUNC_T3_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G12_FIN_T2_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G10_FUNC_T2_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G10_GEO_T2_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G10_GEO_T3_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G10_GEO_T4_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G10_PAT_T4_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G11_ALG_T2_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G11_FIN_T3_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G11_PAT_T2_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G11_PAT_T4_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_ALG_T2_02,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_ALG_T3_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_ALG_T4_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_CALC_T3_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_FUNC_T3_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_GEO_T2_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_GEO_T4_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_PAT_T2_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_PAT_T3_02,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G8_PAT_T1_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G8_PAT_T2_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G9_ALG_T1_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G9_FIN_T1_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G9_PAT_T2_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G11_FUNC_T3_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_FIN_T2_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G10_FUNC_T2_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G10_GEO_T2_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G10_GEO_T3_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G10_GEO_T4_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G10_PAT_T4_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G11_ALG_T2_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G11_FIN_T3_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G11_PAT_T2_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G11_PAT_T4_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G12_ALG_T2_02,0
+chinaza.miracle,Chinaza MIRACLE,11,G12_ALG_T3_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G12_ALG_T4_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G12_CALC_T3_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G12_FUNC_T3_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G12_GEO_T2_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G12_GEO_T4_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G12_PAT_T2_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G12_PAT_T3_02,0
+chinaza.miracle,Chinaza MIRACLE,11,G8_PAT_T1_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G8_PAT_T2_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G9_ALG_T1_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G9_FIN_T1_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G9_PAT_T2_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G11_FUNC_T3_01,0
+chinaza.miracle,Chinaza MIRACLE,11,G12_FIN_T2_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G10_FUNC_T2_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G10_GEO_T2_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G10_GEO_T3_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G10_GEO_T4_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G10_PAT_T4_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G11_ALG_T2_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G11_FIN_T3_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G11_PAT_T2_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G11_PAT_T4_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G12_ALG_T2_02,1
+siphesihle.moloi,Siphesihle MOLOI,11,G12_ALG_T3_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G12_ALG_T4_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G12_CALC_T3_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G12_FUNC_T3_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G12_GEO_T2_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G12_GEO_T4_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G12_PAT_T2_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G12_PAT_T3_02,1
+siphesihle.moloi,Siphesihle MOLOI,11,G8_PAT_T1_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G8_PAT_T2_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G9_ALG_T1_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G9_FIN_T1_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G9_PAT_T2_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G11_FUNC_T3_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G12_FIN_T2_01,0
+owami.msomi,Owami MSOMI,11,G10_FUNC_T2_01,1
+owami.msomi,Owami MSOMI,11,G10_GEO_T2_01,1
+owami.msomi,Owami MSOMI,11,G10_GEO_T3_01,1
+owami.msomi,Owami MSOMI,11,G10_GEO_T4_01,0
+owami.msomi,Owami MSOMI,11,G10_PAT_T4_01,1
+owami.msomi,Owami MSOMI,11,G11_ALG_T2_01,1
+owami.msomi,Owami MSOMI,11,G11_FIN_T3_01,0
+owami.msomi,Owami MSOMI,11,G11_PAT_T2_01,0
+owami.msomi,Owami MSOMI,11,G11_PAT_T4_01,0
+owami.msomi,Owami MSOMI,11,G12_ALG_T2_02,1
+owami.msomi,Owami MSOMI,11,G12_ALG_T3_01,0
+owami.msomi,Owami MSOMI,11,G12_ALG_T4_01,0
+owami.msomi,Owami MSOMI,11,G12_CALC_T3_01,1
+owami.msomi,Owami MSOMI,11,G12_FUNC_T3_01,0
+owami.msomi,Owami MSOMI,11,G12_GEO_T2_01,0
+owami.msomi,Owami MSOMI,11,G12_GEO_T4_01,1
+owami.msomi,Owami MSOMI,11,G12_PAT_T2_01,1
+owami.msomi,Owami MSOMI,11,G12_PAT_T3_02,1
+owami.msomi,Owami MSOMI,11,G8_PAT_T1_01,1
+owami.msomi,Owami MSOMI,11,G8_PAT_T2_01,1
+owami.msomi,Owami MSOMI,11,G9_ALG_T1_01,1
+owami.msomi,Owami MSOMI,11,G9_FIN_T1_01,1
+owami.msomi,Owami MSOMI,11,G9_PAT_T2_01,1
+owami.msomi,Owami MSOMI,11,G11_FUNC_T3_01,0
+owami.msomi,Owami MSOMI,11,G12_FIN_T2_01,0
+endinako.mthetho,Endinako MTHETHO,11,G10_FUNC_T2_01,1
+endinako.mthetho,Endinako MTHETHO,11,G10_GEO_T2_01,1
+endinako.mthetho,Endinako MTHETHO,11,G10_GEO_T3_01,0
+endinako.mthetho,Endinako MTHETHO,11,G10_GEO_T4_01,0
+endinako.mthetho,Endinako MTHETHO,11,G10_PAT_T4_01,1
+endinako.mthetho,Endinako MTHETHO,11,G11_ALG_T2_01,0
+endinako.mthetho,Endinako MTHETHO,11,G11_FIN_T3_01,0
+endinako.mthetho,Endinako MTHETHO,11,G11_PAT_T2_01,0
+endinako.mthetho,Endinako MTHETHO,11,G11_PAT_T4_01,0
+endinako.mthetho,Endinako MTHETHO,11,G12_ALG_T2_02,1
+endinako.mthetho,Endinako MTHETHO,11,G12_ALG_T3_01,1
+endinako.mthetho,Endinako MTHETHO,11,G12_ALG_T4_01,0
+endinako.mthetho,Endinako MTHETHO,11,G12_CALC_T3_01,0
+endinako.mthetho,Endinako MTHETHO,11,G12_FUNC_T3_01,1
+endinako.mthetho,Endinako MTHETHO,11,G12_GEO_T2_01,0
+endinako.mthetho,Endinako MTHETHO,11,G12_GEO_T4_01,0
+endinako.mthetho,Endinako MTHETHO,11,G12_PAT_T2_01,1
+endinako.mthetho,Endinako MTHETHO,11,G12_PAT_T3_02,1
+endinako.mthetho,Endinako MTHETHO,11,G8_PAT_T1_01,0
+endinako.mthetho,Endinako MTHETHO,11,G8_PAT_T2_01,0
+endinako.mthetho,Endinako MTHETHO,11,G9_ALG_T1_01,1
+endinako.mthetho,Endinako MTHETHO,11,G9_FIN_T1_01,0
+endinako.mthetho,Endinako MTHETHO,11,G9_PAT_T2_01,1
+endinako.mthetho,Endinako MTHETHO,11,G11_FUNC_T3_01,0
+endinako.mthetho,Endinako MTHETHO,11,G12_FIN_T2_01,0
+luwayne.petersen,Luwayne Petersen,11,G10_FUNC_T2_01,1
+luwayne.petersen,Luwayne Petersen,11,G10_GEO_T2_01,1
+luwayne.petersen,Luwayne Petersen,11,G10_GEO_T3_01,0
+luwayne.petersen,Luwayne Petersen,11,G10_GEO_T4_01,0
+luwayne.petersen,Luwayne Petersen,11,G10_PAT_T4_01,1
+luwayne.petersen,Luwayne Petersen,11,G11_ALG_T2_01,1
+luwayne.petersen,Luwayne Petersen,11,G11_FIN_T3_01,0
+luwayne.petersen,Luwayne Petersen,11,G11_PAT_T2_01,1
+luwayne.petersen,Luwayne Petersen,11,G11_PAT_T4_01,1
+luwayne.petersen,Luwayne Petersen,11,G12_ALG_T2_02,1
+luwayne.petersen,Luwayne Petersen,11,G12_ALG_T3_01,1
+luwayne.petersen,Luwayne Petersen,11,G12_ALG_T4_01,0
+luwayne.petersen,Luwayne Petersen,11,G12_CALC_T3_01,0
+luwayne.petersen,Luwayne Petersen,11,G12_FUNC_T3_01,1
+luwayne.petersen,Luwayne Petersen,11,G12_GEO_T2_01,0
+luwayne.petersen,Luwayne Petersen,11,G12_GEO_T4_01,0
+luwayne.petersen,Luwayne Petersen,11,G12_PAT_T2_01,1
+luwayne.petersen,Luwayne Petersen,11,G12_PAT_T3_02,1
+luwayne.petersen,Luwayne Petersen,11,G8_PAT_T1_01,1
+luwayne.petersen,Luwayne Petersen,11,G8_PAT_T2_01,1
+luwayne.petersen,Luwayne Petersen,11,G9_ALG_T1_01,1
+luwayne.petersen,Luwayne Petersen,11,G9_FIN_T1_01,1
+luwayne.petersen,Luwayne Petersen,11,G9_PAT_T2_01,1
+luwayne.petersen,Luwayne Petersen,11,G11_FUNC_T3_01,0
+luwayne.petersen,Luwayne Petersen,11,G12_FIN_T2_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G10_FUNC_T2_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G10_GEO_T2_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G10_GEO_T3_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G10_GEO_T4_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G10_PAT_T4_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G11_ALG_T2_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G11_FIN_T3_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G11_PAT_T2_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G11_PAT_T4_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G12_ALG_T2_02,1
+fidiene.ramazani,Fediene RAMAZANI,11,G12_ALG_T3_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G12_ALG_T4_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G12_CALC_T3_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G12_FUNC_T3_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G12_GEO_T2_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G12_GEO_T4_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G12_PAT_T2_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G12_PAT_T3_02,1
+fidiene.ramazani,Fediene RAMAZANI,11,G8_PAT_T1_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G8_PAT_T2_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G9_ALG_T1_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G9_FIN_T1_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G9_PAT_T2_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G11_FUNC_T3_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G12_FIN_T2_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G10_FUNC_T2_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G10_GEO_T2_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G10_GEO_T3_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G10_GEO_T4_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G10_PAT_T4_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G11_ALG_T2_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G11_FIN_T3_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G11_PAT_T2_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G11_PAT_T4_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_ALG_T2_02,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_ALG_T3_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_ALG_T4_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_CALC_T3_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_FUNC_T3_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_GEO_T2_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_GEO_T4_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_PAT_T2_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_PAT_T3_02,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G8_PAT_T1_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G8_PAT_T2_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G9_ALG_T1_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G9_FIN_T1_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G9_PAT_T2_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G11_FUNC_T3_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_FIN_T2_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G10_FUNC_T2_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G10_GEO_T2_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G10_GEO_T3_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G10_GEO_T4_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G10_PAT_T4_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G11_ALG_T2_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G11_FIN_T3_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G11_PAT_T2_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G11_PAT_T4_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G12_ALG_T2_02,1
+zuko.sikwebu,Zuko SIKWEBU,11,G12_ALG_T3_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G12_ALG_T4_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G12_CALC_T3_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G12_FUNC_T3_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G12_GEO_T2_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G12_GEO_T4_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G12_PAT_T2_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G12_PAT_T3_02,0
+zuko.sikwebu,Zuko SIKWEBU,11,G8_PAT_T1_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G8_PAT_T2_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G9_ALG_T1_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G9_FIN_T1_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G9_PAT_T2_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G11_FUNC_T3_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G12_FIN_T2_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G10_FUNC_T2_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G10_GEO_T2_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G10_GEO_T3_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G10_GEO_T4_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G10_PAT_T4_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G11_ALG_T2_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G11_FIN_T3_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G11_PAT_T2_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G11_PAT_T4_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_ALG_T2_02,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_ALG_T3_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_ALG_T4_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_CALC_T3_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_FUNC_T3_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_GEO_T2_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_GEO_T4_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_PAT_T2_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_PAT_T3_02,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G8_PAT_T1_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G8_PAT_T2_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G9_ALG_T1_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G9_FIN_T1_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G9_PAT_T2_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G11_FUNC_T3_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_FIN_T2_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G10_FUNC_T2_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G10_GEO_T2_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G10_GEO_T3_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G10_GEO_T4_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G10_PAT_T4_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G11_ALG_T2_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G11_FIN_T3_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G11_PAT_T2_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G11_PAT_T4_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G12_ALG_T2_02,1
+luyakha.xelitole,Luyakha XELITOLE,11,G12_ALG_T3_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G12_ALG_T4_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G12_CALC_T3_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G12_FUNC_T3_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G12_GEO_T2_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G12_GEO_T4_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G12_PAT_T2_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G12_PAT_T3_02,1
+luyakha.xelitole,Luyakha XELITOLE,11,G8_PAT_T1_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G8_PAT_T2_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G9_ALG_T1_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G9_FIN_T1_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G9_PAT_T2_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G11_FUNC_T3_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G12_FIN_T2_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G10_ALG_T3_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G10_ALG_T4_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G10_DATA_T4_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G10_FIN_T3_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G10_TRIG_T2_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G11_DATA_T4_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G11_TRIG_T2_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G11_TRIG_T4_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_ALG_T2_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_CALC_T2_02,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_CALC_T3_02,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_DATA_T2_02,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_DATA_T3_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_FUNC_T4_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_GEO_T3_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_PAT_T4_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G8_FIN_T1_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G8_FIN_T2_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G9_ALG_T2_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G9_FIN_T2_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G11_FIN_T2_01,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G11_PAT_T3_01,1
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_ALG_T3_02,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G12_FIN_T2_02,0
+zainabu.ahishakiye,Zainabu AHISHAKIYE,11,G9_PAT_T1_01,1
+phuthuma.bene,Phuthuma BENE,11,G10_ALG_T3_01,0
+phuthuma.bene,Phuthuma BENE,11,G10_ALG_T4_01,0
+phuthuma.bene,Phuthuma BENE,11,G10_DATA_T4_01,0
+phuthuma.bene,Phuthuma BENE,11,G10_FIN_T3_01,0
+phuthuma.bene,Phuthuma BENE,11,G10_TRIG_T2_01,0
+phuthuma.bene,Phuthuma BENE,11,G11_DATA_T4_01,0
+phuthuma.bene,Phuthuma BENE,11,G11_TRIG_T2_01,0
+phuthuma.bene,Phuthuma BENE,11,G11_TRIG_T4_01,0
+phuthuma.bene,Phuthuma BENE,11,G12_ALG_T2_01,0
+phuthuma.bene,Phuthuma BENE,11,G12_CALC_T2_02,0
+phuthuma.bene,Phuthuma BENE,11,G12_CALC_T3_02,0
+phuthuma.bene,Phuthuma BENE,11,G12_DATA_T2_02,0
+phuthuma.bene,Phuthuma BENE,11,G12_DATA_T3_01,0
+phuthuma.bene,Phuthuma BENE,11,G12_FUNC_T4_01,0
+phuthuma.bene,Phuthuma BENE,11,G12_GEO_T3_01,0
+phuthuma.bene,Phuthuma BENE,11,G12_PAT_T4_01,0
+phuthuma.bene,Phuthuma BENE,11,G8_FIN_T1_01,0
+phuthuma.bene,Phuthuma BENE,11,G8_FIN_T2_01,0
+phuthuma.bene,Phuthuma BENE,11,G9_ALG_T2_01,0
+phuthuma.bene,Phuthuma BENE,11,G9_FIN_T2_01,0
+phuthuma.bene,Phuthuma BENE,11,G11_FIN_T2_01,0
+phuthuma.bene,Phuthuma BENE,11,G11_PAT_T3_01,0
+phuthuma.bene,Phuthuma BENE,11,G12_ALG_T3_02,0
+phuthuma.bene,Phuthuma BENE,11,G12_FIN_T2_02,0
+phuthuma.bene,Phuthuma BENE,11,G9_PAT_T1_01,0
+roydin.beukes,Roydin BEUKES,11,G10_ALG_T3_01,1
+roydin.beukes,Roydin BEUKES,11,G10_ALG_T4_01,1
+roydin.beukes,Roydin BEUKES,11,G10_DATA_T4_01,0
+roydin.beukes,Roydin BEUKES,11,G10_FIN_T3_01,0
+roydin.beukes,Roydin BEUKES,11,G10_TRIG_T2_01,1
+roydin.beukes,Roydin BEUKES,11,G11_DATA_T4_01,0
+roydin.beukes,Roydin BEUKES,11,G11_TRIG_T2_01,1
+roydin.beukes,Roydin BEUKES,11,G11_TRIG_T4_01,1
+roydin.beukes,Roydin BEUKES,11,G12_ALG_T2_01,1
+roydin.beukes,Roydin BEUKES,11,G12_CALC_T2_02,0
+roydin.beukes,Roydin BEUKES,11,G12_CALC_T3_02,0
+roydin.beukes,Roydin BEUKES,11,G12_DATA_T2_02,1
+roydin.beukes,Roydin BEUKES,11,G12_DATA_T3_01,1
+roydin.beukes,Roydin BEUKES,11,G12_FUNC_T4_01,0
+roydin.beukes,Roydin BEUKES,11,G12_GEO_T3_01,0
+roydin.beukes,Roydin BEUKES,11,G12_PAT_T4_01,0
+roydin.beukes,Roydin BEUKES,11,G8_FIN_T1_01,1
+roydin.beukes,Roydin BEUKES,11,G8_FIN_T2_01,1
+roydin.beukes,Roydin BEUKES,11,G9_ALG_T2_01,1
+roydin.beukes,Roydin BEUKES,11,G9_FIN_T2_01,1
+roydin.beukes,Roydin BEUKES,11,G11_FIN_T2_01,0
+roydin.beukes,Roydin BEUKES,11,G11_PAT_T3_01,1
+roydin.beukes,Roydin BEUKES,11,G12_ALG_T3_02,0
+roydin.beukes,Roydin BEUKES,11,G12_FIN_T2_02,0
+roydin.beukes,Roydin BEUKES,11,G9_PAT_T1_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G10_ALG_T3_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G10_ALG_T4_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G10_DATA_T4_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G10_FIN_T3_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G10_TRIG_T2_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G11_DATA_T4_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G11_TRIG_T2_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G11_TRIG_T4_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G12_ALG_T2_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G12_CALC_T2_02,1
+sharlique.blaauw,Sharlique BLAAUW,11,G12_CALC_T3_02,1
+sharlique.blaauw,Sharlique BLAAUW,11,G12_DATA_T2_02,1
+sharlique.blaauw,Sharlique BLAAUW,11,G12_DATA_T3_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G12_FUNC_T4_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G12_GEO_T3_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G12_PAT_T4_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G8_FIN_T1_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G8_FIN_T2_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G9_ALG_T2_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G9_FIN_T2_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G11_FIN_T2_01,0
+sharlique.blaauw,Sharlique BLAAUW,11,G11_PAT_T3_01,1
+sharlique.blaauw,Sharlique BLAAUW,11,G12_ALG_T3_02,1
+sharlique.blaauw,Sharlique BLAAUW,11,G12_FIN_T2_02,0
+sharlique.blaauw,Sharlique BLAAUW,11,G9_PAT_T1_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G10_ALG_T3_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G10_ALG_T4_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G10_DATA_T4_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G10_FIN_T3_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G10_TRIG_T2_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G11_DATA_T4_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G11_TRIG_T2_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G11_TRIG_T4_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_ALG_T2_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_CALC_T2_02,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_CALC_T3_02,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_DATA_T2_02,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_DATA_T3_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_FUNC_T4_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_GEO_T3_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_PAT_T4_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G8_FIN_T1_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G8_FIN_T2_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G9_ALG_T2_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G9_FIN_T2_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G11_FIN_T2_01,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G11_PAT_T3_01,1
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_ALG_T3_02,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G12_FIN_T2_02,0
+nokuthenda.chikwiro,Nokuthenda CHIKWIRO,11,G9_PAT_T1_01,0
+sukre.delily,Sukre DE LILY,11,G10_ALG_T3_01,1
+sukre.delily,Sukre DE LILY,11,G10_ALG_T4_01,1
+sukre.delily,Sukre DE LILY,11,G10_DATA_T4_01,0
+sukre.delily,Sukre DE LILY,11,G10_FIN_T3_01,0
+sukre.delily,Sukre DE LILY,11,G10_TRIG_T2_01,1
+sukre.delily,Sukre DE LILY,11,G11_DATA_T4_01,0
+sukre.delily,Sukre DE LILY,11,G11_TRIG_T2_01,1
+sukre.delily,Sukre DE LILY,11,G11_TRIG_T4_01,1
+sukre.delily,Sukre DE LILY,11,G12_ALG_T2_01,1
+sukre.delily,Sukre DE LILY,11,G12_CALC_T2_02,1
+sukre.delily,Sukre DE LILY,11,G12_CALC_T3_02,0
+sukre.delily,Sukre DE LILY,11,G12_DATA_T2_02,0
+sukre.delily,Sukre DE LILY,11,G12_DATA_T3_01,0
+sukre.delily,Sukre DE LILY,11,G12_FUNC_T4_01,0
+sukre.delily,Sukre DE LILY,11,G12_GEO_T3_01,0
+sukre.delily,Sukre DE LILY,11,G12_PAT_T4_01,0
+sukre.delily,Sukre DE LILY,11,G8_FIN_T1_01,0
+sukre.delily,Sukre DE LILY,11,G8_FIN_T2_01,1
+sukre.delily,Sukre DE LILY,11,G9_ALG_T2_01,1
+sukre.delily,Sukre DE LILY,11,G9_FIN_T2_01,1
+sukre.delily,Sukre DE LILY,11,G11_FIN_T2_01,0
+sukre.delily,Sukre DE LILY,11,G11_PAT_T3_01,1
+sukre.delily,Sukre DE LILY,11,G12_ALG_T3_02,0
+sukre.delily,Sukre DE LILY,11,G12_FIN_T2_02,0
+sukre.delily,Sukre DE LILY,11,G9_PAT_T1_01,0
+tammy.gagela,Tammy GAGELA,11,G10_ALG_T3_01,1
+tammy.gagela,Tammy GAGELA,11,G10_ALG_T4_01,1
+tammy.gagela,Tammy GAGELA,11,G10_DATA_T4_01,0
+tammy.gagela,Tammy GAGELA,11,G10_FIN_T3_01,0
+tammy.gagela,Tammy GAGELA,11,G10_TRIG_T2_01,0
+tammy.gagela,Tammy GAGELA,11,G11_DATA_T4_01,1
+tammy.gagela,Tammy GAGELA,11,G11_TRIG_T2_01,0
+tammy.gagela,Tammy GAGELA,11,G11_TRIG_T4_01,0
+tammy.gagela,Tammy GAGELA,11,G12_ALG_T2_01,1
+tammy.gagela,Tammy GAGELA,11,G12_CALC_T2_02,0
+tammy.gagela,Tammy GAGELA,11,G12_CALC_T3_02,0
+tammy.gagela,Tammy GAGELA,11,G12_DATA_T2_02,0
+tammy.gagela,Tammy GAGELA,11,G12_DATA_T3_01,0
+tammy.gagela,Tammy GAGELA,11,G12_FUNC_T4_01,0
+tammy.gagela,Tammy GAGELA,11,G12_GEO_T3_01,0
+tammy.gagela,Tammy GAGELA,11,G12_PAT_T4_01,1
+tammy.gagela,Tammy GAGELA,11,G8_FIN_T1_01,1
+tammy.gagela,Tammy GAGELA,11,G8_FIN_T2_01,1
+tammy.gagela,Tammy GAGELA,11,G9_ALG_T2_01,1
+tammy.gagela,Tammy GAGELA,11,G9_FIN_T2_01,1
+tammy.gagela,Tammy GAGELA,11,G11_FIN_T2_01,0
+tammy.gagela,Tammy GAGELA,11,G11_PAT_T3_01,0
+tammy.gagela,Tammy GAGELA,11,G12_ALG_T3_02,0
+tammy.gagela,Tammy GAGELA,11,G12_FIN_T2_02,0
+tammy.gagela,Tammy GAGELA,11,G9_PAT_T1_01,0
+sinothando.gayoyo,Sinothando GAYOYO,11,G10_ALG_T3_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G10_ALG_T4_01,0
+sinothando.gayoyo,Sinothando GAYOYO,11,G10_DATA_T4_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G10_FIN_T3_01,0
+sinothando.gayoyo,Sinothando GAYOYO,11,G10_TRIG_T2_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G11_DATA_T4_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G11_TRIG_T2_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G11_TRIG_T4_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_ALG_T2_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_CALC_T2_02,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_CALC_T3_02,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_DATA_T2_02,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_DATA_T3_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_FUNC_T4_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_GEO_T3_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_PAT_T4_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G8_FIN_T1_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G8_FIN_T2_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G9_ALG_T2_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G9_FIN_T2_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G11_FIN_T2_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G11_PAT_T3_01,1
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_ALG_T3_02,0
+sinothando.gayoyo,Sinothando GAYOYO,11,G12_FIN_T2_02,0
+sinothando.gayoyo,Sinothando GAYOYO,11,G9_PAT_T1_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G10_ALG_T3_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G10_ALG_T4_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G10_DATA_T4_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G10_FIN_T3_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G10_TRIG_T2_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G11_DATA_T4_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G11_TRIG_T2_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G11_TRIG_T4_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_ALG_T2_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_CALC_T2_02,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_CALC_T3_02,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_DATA_T2_02,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_DATA_T3_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_FUNC_T4_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_GEO_T3_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_PAT_T4_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G8_FIN_T1_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G8_FIN_T2_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G9_ALG_T2_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G9_FIN_T2_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G11_FIN_T2_01,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G11_PAT_T3_01,1
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_ALG_T3_02,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G12_FIN_T2_02,0
+siyamthanda.magele,Siyamthanda MAGELE,11,G9_PAT_T1_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G10_ALG_T3_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G10_ALG_T4_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G10_DATA_T4_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G10_FIN_T3_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G10_TRIG_T2_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G11_DATA_T4_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G11_TRIG_T2_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G11_TRIG_T4_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G12_ALG_T2_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G12_CALC_T2_02,0
+jaydee.malgas,Jay Dee MALGAS,11,G12_CALC_T3_02,0
+jaydee.malgas,Jay Dee MALGAS,11,G12_DATA_T2_02,0
+jaydee.malgas,Jay Dee MALGAS,11,G12_DATA_T3_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G12_FUNC_T4_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G12_GEO_T3_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G12_PAT_T4_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G8_FIN_T1_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G8_FIN_T2_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G9_ALG_T2_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G9_FIN_T2_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G11_FIN_T2_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G11_PAT_T3_01,0
+jaydee.malgas,Jay Dee MALGAS,11,G12_ALG_T3_02,0
+jaydee.malgas,Jay Dee MALGAS,11,G12_FIN_T2_02,0
+jaydee.malgas,Jay Dee MALGAS,11,G9_PAT_T1_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G10_ALG_T3_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G10_ALG_T4_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G10_DATA_T4_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G10_FIN_T3_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G10_TRIG_T2_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G11_DATA_T4_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G11_TRIG_T2_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G11_TRIG_T4_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_ALG_T2_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_CALC_T2_02,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_CALC_T3_02,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_DATA_T2_02,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_DATA_T3_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_FUNC_T4_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_GEO_T3_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_PAT_T4_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G8_FIN_T1_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G8_FIN_T2_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G9_ALG_T2_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G9_FIN_T2_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G11_FIN_T2_01,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G11_PAT_T3_01,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_ALG_T3_02,1
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G12_FIN_T2_02,0
+lesedi.menzangabom,Lesedi MENZANGABOM,11,G9_PAT_T1_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G10_ALG_T3_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G10_ALG_T4_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G10_DATA_T4_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G10_FIN_T3_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G10_TRIG_T2_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G11_DATA_T4_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G11_TRIG_T2_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G11_TRIG_T4_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G12_ALG_T2_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G12_CALC_T2_02,1
+siphesihle.moloi,Siphesihle MOLOI,11,G12_CALC_T3_02,1
+siphesihle.moloi,Siphesihle MOLOI,11,G12_DATA_T2_02,0
+siphesihle.moloi,Siphesihle MOLOI,11,G12_DATA_T3_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G12_FUNC_T4_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G12_GEO_T3_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G12_PAT_T4_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G8_FIN_T1_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G8_FIN_T2_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G9_ALG_T2_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G9_FIN_T2_01,1
+siphesihle.moloi,Siphesihle MOLOI,11,G11_FIN_T2_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G11_PAT_T3_01,0
+siphesihle.moloi,Siphesihle MOLOI,11,G12_ALG_T3_02,1
+siphesihle.moloi,Siphesihle MOLOI,11,G12_FIN_T2_02,0
+siphesihle.moloi,Siphesihle MOLOI,11,G9_PAT_T1_01,0
+owami.msomi,Owami MSOMI,11,G10_ALG_T3_01,0
+owami.msomi,Owami MSOMI,11,G10_ALG_T4_01,1
+owami.msomi,Owami MSOMI,11,G10_DATA_T4_01,0
+owami.msomi,Owami MSOMI,11,G10_FIN_T3_01,0
+owami.msomi,Owami MSOMI,11,G10_TRIG_T2_01,1
+owami.msomi,Owami MSOMI,11,G11_DATA_T4_01,1
+owami.msomi,Owami MSOMI,11,G11_TRIG_T2_01,1
+owami.msomi,Owami MSOMI,11,G11_TRIG_T4_01,0
+owami.msomi,Owami MSOMI,11,G12_ALG_T2_01,1
+owami.msomi,Owami MSOMI,11,G12_CALC_T2_02,0
+owami.msomi,Owami MSOMI,11,G12_CALC_T3_02,0
+owami.msomi,Owami MSOMI,11,G12_DATA_T2_02,0
+owami.msomi,Owami MSOMI,11,G12_DATA_T3_01,0
+owami.msomi,Owami MSOMI,11,G12_FUNC_T4_01,1
+owami.msomi,Owami MSOMI,11,G12_GEO_T3_01,0
+owami.msomi,Owami MSOMI,11,G12_PAT_T4_01,0
+owami.msomi,Owami MSOMI,11,G8_FIN_T1_01,1
+owami.msomi,Owami MSOMI,11,G8_FIN_T2_01,1
+owami.msomi,Owami MSOMI,11,G9_ALG_T2_01,1
+owami.msomi,Owami MSOMI,11,G9_FIN_T2_01,1
+owami.msomi,Owami MSOMI,11,G11_FIN_T2_01,0
+owami.msomi,Owami MSOMI,11,G11_PAT_T3_01,0
+owami.msomi,Owami MSOMI,11,G12_ALG_T3_02,0
+owami.msomi,Owami MSOMI,11,G12_FIN_T2_02,0
+owami.msomi,Owami MSOMI,11,G9_PAT_T1_01,1
+endinako.mthetho,Endinako MTHETHO,11,G10_ALG_T3_01,0
+endinako.mthetho,Endinako MTHETHO,11,G10_ALG_T4_01,1
+endinako.mthetho,Endinako MTHETHO,11,G10_DATA_T4_01,0
+endinako.mthetho,Endinako MTHETHO,11,G10_FIN_T3_01,0
+endinako.mthetho,Endinako MTHETHO,11,G10_TRIG_T2_01,1
+endinako.mthetho,Endinako MTHETHO,11,G11_DATA_T4_01,0
+endinako.mthetho,Endinako MTHETHO,11,G11_TRIG_T2_01,1
+endinako.mthetho,Endinako MTHETHO,11,G11_TRIG_T4_01,1
+endinako.mthetho,Endinako MTHETHO,11,G12_ALG_T2_01,0
+endinako.mthetho,Endinako MTHETHO,11,G12_CALC_T2_02,0
+endinako.mthetho,Endinako MTHETHO,11,G12_CALC_T3_02,0
+endinako.mthetho,Endinako MTHETHO,11,G12_DATA_T2_02,0
+endinako.mthetho,Endinako MTHETHO,11,G12_DATA_T3_01,0
+endinako.mthetho,Endinako MTHETHO,11,G12_FUNC_T4_01,0
+endinako.mthetho,Endinako MTHETHO,11,G12_GEO_T3_01,0
+endinako.mthetho,Endinako MTHETHO,11,G12_PAT_T4_01,0
+endinako.mthetho,Endinako MTHETHO,11,G8_FIN_T1_01,1
+endinako.mthetho,Endinako MTHETHO,11,G8_FIN_T2_01,1
+endinako.mthetho,Endinako MTHETHO,11,G9_ALG_T2_01,0
+endinako.mthetho,Endinako MTHETHO,11,G9_FIN_T2_01,1
+endinako.mthetho,Endinako MTHETHO,11,G11_FIN_T2_01,0
+endinako.mthetho,Endinako MTHETHO,11,G11_PAT_T3_01,0
+endinako.mthetho,Endinako MTHETHO,11,G12_ALG_T3_02,0
+endinako.mthetho,Endinako MTHETHO,11,G12_FIN_T2_02,0
+endinako.mthetho,Endinako MTHETHO,11,G9_PAT_T1_01,0
+luwayne.petersen,Luwayne Petersen,11,G10_ALG_T3_01,1
+luwayne.petersen,Luwayne Petersen,11,G10_ALG_T4_01,1
+luwayne.petersen,Luwayne Petersen,11,G10_DATA_T4_01,1
+luwayne.petersen,Luwayne Petersen,11,G10_FIN_T3_01,0
+luwayne.petersen,Luwayne Petersen,11,G10_TRIG_T2_01,1
+luwayne.petersen,Luwayne Petersen,11,G11_DATA_T4_01,1
+luwayne.petersen,Luwayne Petersen,11,G11_TRIG_T2_01,1
+luwayne.petersen,Luwayne Petersen,11,G11_TRIG_T4_01,0
+luwayne.petersen,Luwayne Petersen,11,G12_ALG_T2_01,1
+luwayne.petersen,Luwayne Petersen,11,G12_CALC_T2_02,0
+luwayne.petersen,Luwayne Petersen,11,G12_CALC_T3_02,1
+luwayne.petersen,Luwayne Petersen,11,G12_DATA_T2_02,0
+luwayne.petersen,Luwayne Petersen,11,G12_DATA_T3_01,0
+luwayne.petersen,Luwayne Petersen,11,G12_FUNC_T4_01,0
+luwayne.petersen,Luwayne Petersen,11,G12_GEO_T3_01,0
+luwayne.petersen,Luwayne Petersen,11,G12_PAT_T4_01,0
+luwayne.petersen,Luwayne Petersen,11,G8_FIN_T1_01,1
+luwayne.petersen,Luwayne Petersen,11,G8_FIN_T2_01,1
+luwayne.petersen,Luwayne Petersen,11,G9_ALG_T2_01,1
+luwayne.petersen,Luwayne Petersen,11,G9_FIN_T2_01,1
+luwayne.petersen,Luwayne Petersen,11,G11_FIN_T2_01,1
+luwayne.petersen,Luwayne Petersen,11,G11_PAT_T3_01,1
+luwayne.petersen,Luwayne Petersen,11,G12_ALG_T3_02,1
+luwayne.petersen,Luwayne Petersen,11,G12_FIN_T2_02,0
+luwayne.petersen,Luwayne Petersen,11,G9_PAT_T1_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G10_ALG_T3_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G10_ALG_T4_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G10_DATA_T4_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G10_FIN_T3_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G10_TRIG_T2_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G11_DATA_T4_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G11_TRIG_T2_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G11_TRIG_T4_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G12_ALG_T2_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G12_CALC_T2_02,1
+fidiene.ramazani,Fediene RAMAZANI,11,G12_CALC_T3_02,1
+fidiene.ramazani,Fediene RAMAZANI,11,G12_DATA_T2_02,0
+fidiene.ramazani,Fediene RAMAZANI,11,G12_DATA_T3_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G12_FUNC_T4_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G12_GEO_T3_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G12_PAT_T4_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G8_FIN_T1_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G8_FIN_T2_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G9_ALG_T2_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G9_FIN_T2_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G11_FIN_T2_01,0
+fidiene.ramazani,Fediene RAMAZANI,11,G11_PAT_T3_01,1
+fidiene.ramazani,Fediene RAMAZANI,11,G12_ALG_T3_02,0
+fidiene.ramazani,Fediene RAMAZANI,11,G12_FIN_T2_02,0
+fidiene.ramazani,Fediene RAMAZANI,11,G9_PAT_T1_01,1
+masamkele.sicatsha,Masamkele SICATSHA,11,G10_ALG_T3_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G10_ALG_T4_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G10_DATA_T4_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G10_FIN_T3_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G10_TRIG_T2_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G11_DATA_T4_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G11_TRIG_T2_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G11_TRIG_T4_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_ALG_T2_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_CALC_T2_02,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_CALC_T3_02,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_DATA_T2_02,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_DATA_T3_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_FUNC_T4_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_GEO_T3_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_PAT_T4_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G8_FIN_T1_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G8_FIN_T2_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G9_ALG_T2_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G9_FIN_T2_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G11_FIN_T2_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G11_PAT_T3_01,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_ALG_T3_02,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G12_FIN_T2_02,0
+masamkele.sicatsha,Masamkele SICATSHA,11,G9_PAT_T1_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G10_ALG_T3_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G10_ALG_T4_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G10_DATA_T4_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G10_FIN_T3_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G10_TRIG_T2_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G11_DATA_T4_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G11_TRIG_T2_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G11_TRIG_T4_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G12_ALG_T2_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G12_CALC_T2_02,0
+zuko.sikwebu,Zuko SIKWEBU,11,G12_CALC_T3_02,1
+zuko.sikwebu,Zuko SIKWEBU,11,G12_DATA_T2_02,0
+zuko.sikwebu,Zuko SIKWEBU,11,G12_DATA_T3_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G12_FUNC_T4_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G12_GEO_T3_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G12_PAT_T4_01,0
+zuko.sikwebu,Zuko SIKWEBU,11,G8_FIN_T1_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G8_FIN_T2_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G9_ALG_T2_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G9_FIN_T2_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G11_FIN_T2_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G11_PAT_T3_01,1
+zuko.sikwebu,Zuko SIKWEBU,11,G12_ALG_T3_02,1
+zuko.sikwebu,Zuko SIKWEBU,11,G12_FIN_T2_02,0
+zuko.sikwebu,Zuko SIKWEBU,11,G9_PAT_T1_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G10_ALG_T3_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G10_ALG_T4_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G10_DATA_T4_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G10_FIN_T3_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G10_TRIG_T2_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G11_DATA_T4_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G11_TRIG_T2_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G11_TRIG_T4_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_ALG_T2_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_CALC_T2_02,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_CALC_T3_02,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_DATA_T2_02,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_DATA_T3_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_FUNC_T4_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_GEO_T3_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_PAT_T4_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G8_FIN_T1_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G8_FIN_T2_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G9_ALG_T2_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G9_FIN_T2_01,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G11_FIN_T2_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G11_PAT_T3_01,1
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_ALG_T3_02,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G12_FIN_T2_02,0
+levaughn.vanaardt,Levaughn VAN AARDT,11,G9_PAT_T1_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G10_ALG_T3_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G10_ALG_T4_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G10_DATA_T4_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G10_FIN_T3_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G10_TRIG_T2_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G11_DATA_T4_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G11_TRIG_T2_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G11_TRIG_T4_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G12_ALG_T2_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G12_CALC_T2_02,0
+luyakha.xelitole,Luyakha XELITOLE,11,G12_CALC_T3_02,1
+luyakha.xelitole,Luyakha XELITOLE,11,G12_DATA_T2_02,0
+luyakha.xelitole,Luyakha XELITOLE,11,G12_DATA_T3_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G12_FUNC_T4_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G12_GEO_T3_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G12_PAT_T4_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G8_FIN_T1_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G8_FIN_T2_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G9_ALG_T2_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G9_FIN_T2_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G11_FIN_T2_01,0
+luyakha.xelitole,Luyakha XELITOLE,11,G11_PAT_T3_01,1
+luyakha.xelitole,Luyakha XELITOLE,11,G12_ALG_T3_02,0
+luyakha.xelitole,Luyakha XELITOLE,11,G12_FIN_T2_02,0
+luyakha.xelitole,Luyakha XELITOLE,11,G9_PAT_T1_01,0
